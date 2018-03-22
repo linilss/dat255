@@ -54,9 +54,16 @@ git pull
 git push origin branchnamn
 ```
 
-För att pusha till branchen ovanför :
+För att pusha ändringar i en branch (`branchNamn`) till branchen ovanför (`parentBranch`):
 ```
 git add .
 git commit -m '<text som beskriver ändringar gjorda>'
-git git merge 
+git merge parentBranch
+```
+Om du inte får något merge conflict:
+```
+git checkout parentBranch
+git merge branchNamn
+git pull
+git push
 ```
