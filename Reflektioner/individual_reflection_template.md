@@ -1,4 +1,5 @@
-## Name - Reflection - Week 1
+# Name - Reflection
+## Week X
 ### What do I want to learn or understand better?
 BLABLABLA
 ### How can I help someone else, or the entire team, to learn something new?
