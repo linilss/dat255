@@ -67,3 +67,5 @@ git merge branchNamn
 git pull
 git push
 ```
+
+För att ta bort 
