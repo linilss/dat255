@@ -2,6 +2,7 @@
 
 Eftersom det är den första veckan i projektet kan vi inte helt uttrycka oss om hur vi kommer definiera scoop\:et. Förhoppningsvis kommer detta klarna nästa vecka då projektet har presenterats 
 
+
 **your social contract, which means you should create one in the first week**
 
 Social contract
@@ -15,6 +16,7 @@ Alla i gruppen är villiga att lägga ned den tid på kursen som krävs och sikt
 Skulle problem uppstå med utebliven närvaro ska det först kommuniceras inom gruppen för att förstå orsaken, går det av någon anledning inte att lösa kontaktas handledare. Problem med närvaro definieras som att man vid upprepade tillfällen är frånvarande. Engångsföreteelser kan lösas med fika. 
 
 Genom projektet ska vi försöka att bibehålla en jämn arbetsbelastning mellan gruppmedlemmarna. Om problem uppstår så hanteras det på samma sätt som med närvaron. 
+
 
 **the success criteria for the team in terms of what you want to achieve with your application**
 

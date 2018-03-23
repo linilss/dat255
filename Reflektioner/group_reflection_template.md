@@ -2,17 +2,34 @@
 
 ### The chosen scope of the application under development including priority of features and for whom you are creating value
 
+BLABLA
+
 ### Your social contract, which means you should create one in the first week
+
+BLABLA
 
 ### The success criteria for the team in terms of what you want to achieve with your application
 
+BLABLA
+
 ### Your acceptance tests, such as how they were performed and with whom
 
-### The design of your application (choice of APIs, architecture patterns etc)
+BLABLA
 
-### The behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
+### The design of your application 
+*(choice of APIs, architecture patterns etc)*
 
-### The structural overview of your application (such as class diagrams, domain models or component diagrams)
+BLABLA
+
+### The behavioural overview of your application
+*(for instance through use cases, interaction diagrams or similar)*
+
+BLABLA
+
+### The structural overview of your application
+*(such as class diagrams, domain models or component diagrams)*
+
+BLABLA
 
 ### Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
 
@@ -26,10 +43,22 @@
 
 ### The agile practices you have used for the current sprint
 
-### The time you have spent on the course (so keep track of your hours so you can describe the current situation)
+### The time you have spent on the course
+*(so keep track of your hours so you can describe the current situation)*
 
-### The sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
+BLABLA
 
-### Best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
+### The sprint review
+*(either in terms of outcome of the current week's exercise or meeting the product owner)*
 
-### Relation to literature and guest lectures (how do your reflections relate to what others have to say?)
+BLABLA
+
+### Best practices for using new tools and technologies
+*(IDEs, version control, scrum boards etc.)*
+
+BLABLA
+
+### Relation to literature and guest lectures
+*(how do your reflections relate to what others have to say?)*
+
+BLABLA
