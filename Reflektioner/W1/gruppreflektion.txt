@@ -1,15 +1,2 @@
-Social contract {
 
-       Komma i tid till möten, meddela i förväg
-
-       Daily scrum varje dag vi jobbar ihop, slackkanal för daily scrum för icke-närvarande, fasta tider någon gång i veckan, uppdatering varannan dag (mån, ons, fre)
-
-       Lär bli uppdelat, kommunikation mellan team i slack
-
-       Sikta på 4:a, omvärdering vid halvtid
-
-       Försöka lösa utebliven närvaro: först kommunicera inom gruppen, sen kontakta handledare (kan lösas med fika)
-
-       Försöka bibehålla jämn arbetsbelastning gruppmedlemmarna emellan
-}
 
