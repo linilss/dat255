@@ -1,5 +1,5 @@
-# Hey hooo!
+## DAT255 grupp ? 
 
-Detta ska bli något.
+### För att läsa reflektioner - gå till mappen reflektioner
 
-(Flyttat git-help-pls-sektionen till en bättre mapp)
+### För att få hjälp med git - gå till mappen git-help-pls
