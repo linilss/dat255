@@ -35,7 +35,7 @@ Vi kan inte utvärdera detta då vi i dagsläget inte har någon applikation.
 Det är svårt att analysera strukturen på applikationen vid den här tidpunkten då vi inte vet vad vårt projekt är ännu.
 
 ### Your user stories
-Då vi i dagsläget inte har några user stories har vi fokuserat på hur vi ska lägga upp arbetet med dem på ett bra sätt. Vi planerar att ta fram ett ramverk för att bygga upp user stories på ett homogent sätt för att underlätta förståelse och hålla det så enkelt som möjligt. Denna vecka har vi försökt att bryta upp arbetet genom att skapa en form av scrumplattform med gemensamma repositories, task manager och slack-kanaler för att projektet ska löpa på så smidigt som möjligt. 
+Vi har fokuserat på hur vi ska lägga upp arbetet med user stories på ett bra sätt. Vi planerar att använda GitHubs projekt funktion för att bygga upp user stories på ett homogent sätt för att underlätta förståelse och hålla det så enkelt som möjligt. Funktionen fungerar som en task manager. Denna vecka har vi försökt att bryta upp det kommande arbetet genom att skapa en form av scrumplattform med gemensamma repositories, task manager och slack-kanaler för att projektet ska löpa på så smidigt som möjligt. 
 
 ### The three KPIs you use for monitoring your progress
 * Doneness: bli färdiga med User Stories i  sprint backloggen
