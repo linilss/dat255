@@ -1,12 +1,18 @@
 # Gustav Nilsson - Reflection 
 ## Week 1
 ### What do I want to learn or understand better?
-BLABLABLA
+I have never used Scrum before, but I have seen it used by others, and I am really excited to learn it myself. It seems really beneficial when it comes to develop things in group, which I have always had a bit trouble with (coordinating the work that is).
 ### How can I help someone else, or the entire team, to learn something new?
-BLABLABLA
+Whenever we sit together as a group, I try to listen and be observant to if anyone needs help with anything. If it is something I know myself right now, I ask them if they would like me to show them anything, and if it is something I don't know I try to look it up myself first (since I want to learn as well).
 ### What is my contribution towards the team’s application of scrum?
-BLABLABLA
+I try to discuss the best way to split up the work with them the best I can. However, I am still pretty silent in the group, since I just met them. But I am sure it will get better very fast as soon as I get to know the others. 
 ### What is my contribution towards the team’s deliveries?
-*That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).*
+I have attended the lectures, to try to learn Scrum the best I can. Outside of that we had some group meetings where we all got together and discussed how we will work. I helped others with Git and creating the reflection-files in the proper format for displaying at GitHub. I also spent some time on my own to improve my Git skills.
 
-BLABLABLA
+My total time spent was
+Monday: 13-17 Lecture = 4 hours
+Wednesday: 13-17 Lecture = 4 hours
+Thursday: 19-21, Git study = 2 hours
+Friday: 13-15 Lecture, 15-17 Group Meeting = 4 hours
+
+Total = 14 hours
