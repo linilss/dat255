@@ -1,4 +1,4 @@
-# Name - Reflection
+# Linus Nilsson - Reflection
 ## Week 1
 ### What do I want to learn or understand better?
 Jag kände mig redan hyfsat bekväm med både git och scrum innan kursens start, vilket kanske ger mig en lite edge i lärandet av de just nämnda. Men jag tror starkt på att både att lära genom dels att lära ut och genom repetition, därför tänker jag vidareutveckla kunskaper inom respektive område. 
@@ -21,7 +21,4 @@ Nästa vecka vill jag ha kommit igång, så att alla känner sig bekväma med ve
 
 **Total:** 15h
 
-BLABLABLA
-## Vecka 1
-Reflektion
 
