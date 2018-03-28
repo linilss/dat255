@@ -1,5 +1,6 @@
 
 **Week 1
+
 **What do I want to learn or understand better?**
 I have no prior knowledge of working in Git or scrum and have spent approximately 8h trying to get the basics to be able to proceed efficiently. I have also attended all the lectures.  I have been helped by other team members with better knowledge, wich has been very helpful. I plan to spend more time during the weekend to learn Git, Trello, scrum theory and using the command line. By trying to learn quickly I hope to be able to focus on the actual coding and delivering value to the project during the coming weeks.
 
@@ -22,3 +23,14 @@ lectures: 8 h
 group meetings: 2 h
 git tutorials & learning scrum: 8 h
 total: 18 h 
+
+
+**Week 2
+
+**What do I want to learn or understand better?**
+**How can I help someone else, or the entire team, to learn something new?**
+**What is my contribution towards the team’s application of scrum?**
+**What is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).**
+**Time spent on course**
+
+
