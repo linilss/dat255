@@ -21,4 +21,21 @@ Nästa vecka vill jag ha kommit igång, så att alla känner sig bekväma med ve
 
 **Total:** 15h
 
+## Week 2
+### What do I want to learn or understand better?
+As a person that never REALLY has tried android programming before, I'm super pumped to get to this project. I've got the basics during the week, in saving global variables in res, the lifecycle methods and so on, now it's just connecting the dots and utilize it in an actual project. The next sprint will officially be the beginning of the project, so during the break I'll keep working on android, scrum and git.
+
+### How can I help someone else, or the entire team, to learn something new?
+Since we're all new to android programming, I try to be at hand for anyone running into the same problems that I have had. And if I haven't had it, I make sure it's resolved in another way. 
+
+### What is my contribution towards the team’s application of scrum?
+I did attend to a couple of group meetings, one of them consisting of daily scrum meeting. 
+
+### What is my contribution towards the team’s deliveries?
+This week's ambition was to learn more about android studio and android programming which I did successfully. 
+
+**Time spent:** Lectures & exercises: 4h, group meetings 3h, learning android programming 4h
+
+**Total:** 11h
+
 
