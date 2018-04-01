@@ -12,3 +12,18 @@ I have looked into Scrum on my own beyond the lectures to get more knowledge abo
 **Time spent:** Lectures & exercises: 8h, learning Scrum by watching tutorials on youtube: 2h , group meetings 3h
 
 **Total: 13h**
+
+## Week 2
+### What do I want to learn or understand better?
+I have started to work with Andriod Studio and I want to learn a lot more about it (andriod development in general). I think I understand the main concepts of Scrum now and I'm looking forward to actually use it properly the next week/sprint. We have gained access to the source code of the existing app and I want to learn how to read documentations and code in a good and structured way.
+### How can I help someone else, or the entire team, to learn something new?
+I almost always prefer to use video-tutorials instead of written tutorials when I'm a total beginner at something, if I find any good tutorials I will inform my team members that I found a great guide and share it to them as well.  
+I had some technical issues when downloading and installing the Andriod Studio so if anyone in the group has any problems with the software, I'm happy to help. 
+### What is my contribution towards the team’s application of scrum?
+I have participated in Scrum meetings and helped out with the creation of our first user-stories. I also specified myself as the contact person in the group. 
+### What is my contribution towards the team’s deliveries?
+During the last week I gathered more knowledge in Andrio Studio and Andriod Development. I have also participated in scrum meetings and discussions about how we want to use Git. Since we have access to the source code of the app now, I will search for guidelines online to learn about how to read documentations and code that I've now written myself.  
+
+**Time spent:** Lectures & exercises: 4h, Andriod Studio tutorial: 1.5h , group meetings 2h
+
+**Total:7.5h**
