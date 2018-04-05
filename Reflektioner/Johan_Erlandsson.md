@@ -21,4 +21,28 @@ så bra projekt som möjligt samt lära mig de rätta teknikerna, fram för allt
 
 That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).
 
-10h Föreläsnigar, lego-övning och träff med gruppen
+**Total tid:** 10h
+
+**Spenderat på:** Föreläsnigar, lego-övning och träff med gruppen
+
+## Week 2
+
+### What do I want to learn or understand better?
+
+Jag vill precis som tidigare vecka lära mig mer angående SCRUM men jag vill även lära mig mer om Android studio. Vill kunna skapa en simpel app på egen hand helt enkelt!
+
+### How can I help someone else, or the entire team, to learn something new?
+Jag kan hjälpa de andra medlemmarna i gruppen att lära sig någonting nytt via att dela med mig av den kunskapen jag har, oavsett vilket område det behandlar. Kan även hjälpa både dem och mig att lära sig nytt via att diskutera kring nya metoder och uppgifter vilket förhoppningsvis leder till mer förståelse
+
+### What is my contribution towards the team’s application of scrum?
+Den här veckan genomfördes diverse gruppmöten, varav vissa ansågs vara en del av scum. Jag närvarade på samtliga möten 
+
+### What is my contribution towards the team’s deliveries?
+Den här veckan skulle vi lära oss mer om Android programmering samt Android studio, vilket jag har arbetat med hela veckan.
+
+
+**Total tid:** 10h
+
+**Spenderat på:** Föreläsnigar, grupp-möten och inlärning av Android studio
+
+
