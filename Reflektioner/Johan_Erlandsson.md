@@ -46,3 +46,29 @@ Den här veckan skulle vi lära oss mer om Android programmering samt Android st
 **Spenderat på:** Föreläsnigar, grupp-möten och inlärning av Android studio
 
 
+## Week 3
+
+### What do I want to learn or understand better?
+
+Denna veckan var jag "tillfällig" SCRUM-master då vår SCRUM-master var bortrest. Detta resulterade i att jag fick lite mer insikt i vad det faktiskt innebär att andvända sig utav SCRUM. Trots att jag fick mer insikt i andvändandet av dem så kände jag att det finns mycket kvar att lära, samt att strukturen i det skall rulla på bättre vilket leder till bättre flyt i möten osv.
+
+Har även jobbat med att komma igång med utvecklingsmiljön i Apollo Studio, det har vart lite jobbigt då felmeddelanden har uppstått som inte behandlas i installationsguiden, något jag hoppas på att reda ut denna vecka och lyckas bygga appen i Apollo studio
+
+### How can I help someone else, or the entire team, to learn something new?
+
+Då många både i vår grupp samt de andra grupperna hade problem med att komma igång med att bygga appen i en utvecklarmiljö tänker jag att så fort jag har lärt mig någonting som kan gynna processen av att komma igång med utveckling delar jag med mig utav det på bästa sätt jag kan till de andra medlemmarna som behöver hjälp! Detta gäller även om jag skulle hitta någon fakta-källa som hjälper till med utvecklingen.  
+
+
+### What is my contribution towards the team’s application of scrum?
+
+Som tidigare veckor genomfördes diverse gruppmöten där vi körde intensiva SCRUM-s. Vi startade även en Sprint som skulle sträcka sig över en vecka. Denna startades onsdagen den 10/4 och skulle hålla på i en vecka. Det var först efter denna vecka vi hade träffat vår product owner samt handledare och diskuterat vad som skulle vara aktuellt att implementera i appen.
+
+### What is my contribution towards the team’s deliveries?
+
+Som tidigare nämnt har denna vecka kretsat kring att komma igång med utvecklingsmiljön vilket är något jag och de andra i gruppen har jobbat mycket med. Vi har även satt oss in i vad som önskas utvecklas med appen samt vad som kan vara aktuellt att göra för att lyckas få ett så kallat "Hello world"-bevis på att vi har kommit igång med utveckling av appen.
+
+**Total tid:** 10h
+
+**Spenderat på:** Föreläsnigar, handledning, grupp-möten och inlärning av Android studio
+
+
