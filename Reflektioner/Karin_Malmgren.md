@@ -46,6 +46,33 @@ This sprint consisted of 3 days because of Easter holiday.
 **Teamwork**: 4h
 **Own work**: 3h
 
+## Vecka 3 
+
+**What do I want to learn or understand better?**
+
+This has been a unuasually long sprint and I started off by beeing away for a couple of days. This was really hard because 
+I didn't feel like I had control over what was happening in the course and I couldn't support the group the way i wanted to. However, they did a great job by filling me in, writing in our slack channel etc. Since then a lot of new things have happened. We have met the product owner and I have learnt more about the maritmeIT sector. This sprint mostly focused on getting the developing environment set up and making the application work through the android emulator, android studio and expo. New terms and programs have been instroduced to me and I feel like there is a lot to learn. I think the group is working good together and where starting to get use to a scrum-way of working. Members of the group and also the whole class have been very helpful in the learningprocess. Now I want to learn more about react native and expo so that we can start making changes in the application that are useful for the Vessel. I also want gain experience on how to use versioncontrol and git together with react native and expo. The best way to achieve this is probably to watch tutorials, play around in the environments and discussing with team members. 
+
+**How can I help someone else, or the entire team, to learn something new?**
+
+We have had a lot of errors whilst setting up the application on our computers. We have tried to error-searched 
+together and setting up a best practice to avoid doing the same mistakes over and over again. I have learnt how to solve 
+problems that occurs and also been able to contribute to others with this knowledge. There is tools and programs that are new to the entire group but also thing some of us are quite comfortable using. I think we will be able to help eachother out a lot by gaining experience and knowledge and charing it in the team (and outside as well if needed). 
+ 
+**What is my contribution towards the team’s application of scrum?**
+
+When I was away for a few days it was very hard to contribute enough to the team application of scrum. I felt disconnected and had a hard time following the work we did. However, the team has been very helpful and I now feel up-to-date with the work. I have learnt that it is important to be in the same place to collaborate efficiently. I have been active in arranging daily scrums, review and retrospective and also worked with the scrumboard to visualise our process.  
+ 
+**What is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).**
+  
+I have forked and cloned the repo for the excising app in order to work with it through android studios. I have learnt more about android studios, react native, expo and the android emulator. The application is now working on the emulator and I was able to show the group and the product owner that changes could be made (only simple things, like changing colors and fonts). Meanwhile I have read the litterature available on the course site regarding maritme IT which I think is important for our deliveries and in the creation of value. In the next sprint we will go deeper into the application, looking for unneccessary funcionality and finding the core of what Vessel need. In order to achieve these things I need to know more about JavaScript since I have previously only used Java. I also want to use react native and expo to gain experience. I think the team as a whole shares my ambitions and therefore the best way to make the change happen is to sit together and share new insights as well as previous experiences. Google, various tutorials and the product owners will be great help the following sprint!
+
+This sprint consisted of 1,5 weeks. 
+
+**Lectures**: 2h (missed one out)
+**Teamwork**: 6h (missed one meeting) 
+**Own work**: 14h
+
 
 
  
