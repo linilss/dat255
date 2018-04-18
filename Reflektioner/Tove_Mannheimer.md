@@ -44,17 +44,24 @@ git tutorials & learning scrum: 4 h
 total: 10 h 
 Please note that this sprint consisted of only 3 days.
 
-**Week 1**
+**Week 3**
 
 **What do I want to learn or understand better?**
+Now that I can build and run the app I want to focus my learning toward understanding what delivers value to the end user. currently I have read some of the descriptions of the port procedure, but i need to understand it better to be able to deliver solutions to the end user. I also want to continue to improve my skills in android studio and scrum methodology. Since last week focus has been to solve errors that surfaced during the build phase which has taught me a lot about working in android studio and to solve errors. 
 
 **How can I help someone else, or the entire team, to learn something new?**
+Me and other members of the team plan to sit down together to work on task breakdown and understand how to work on our user stories tomorrow. By doing this i think the entire team can get a better understanding of the project and its scope. As mentioned during the previous week I will share tutorials I find useful and try to help team members that need advice. I plan to search for more tutorials during this sprint to accelerate my knowledge. By doing this I hope to further develop my own skills, while sharing knowledge with my team.  
 
 **What is my contribution towards the team’s application of scrum?**
-
+I have participated in the daily scrum meetings and been attentive to the scrumboard. Unfortunately this week I was only able to attend one of the metings in person, but I participated via skype for one of the others and read the notes from the third meeting. For this next sprint i will have the possibility to attend all meetings, sonething I think will improve my contribution to the group. 
 
 **What is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).**
+Last week my ambition was to learn Android studio better and that has been partly successful. Unfortunately since there was a lot of trouble to build the code in AS i did not get as much time to work with the actual code as I wanted to. For that reason I will continue to try to learn android studio better. By the end of the sprint I eventually managed to build and run the code, and also make minor changes, which was the sprint backlog for the team this sprint, although i wish i could have spent more time doing the changes rather than googling error messages. An addition to my learning objectiveis to understand the existing code better to be able to make the changes we aspire to do in the sprint. This will require an effort from my side, something I look forward to do. 
 
 **Time spent on course**
+lectures: 2 h
+group meetings: 3 h
+Trying to build code in AS: 8 h
+total: 13 h 
 
 
