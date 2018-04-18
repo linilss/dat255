@@ -27,3 +27,19 @@ During the last week I gathered more knowledge in Andrio Studio and Andriod Deve
 **Time spent:** Lectures & exercises: 4h, Andriod Studio tutorial: 1.5h , group meetings 2h
 
 **Total:7.5h**
+
+
+## Week 3
+### What do I want to learn or understand better?
+During this week,I have understood that we are going to develop in react native and not Andriod directly. I have no experience in react native or even JavaScript so I'm looking forward to start learning about them. I also would  like to get a better understanding about how to split a userstorie into tasks and then do an estimation on them. With some discussion with the team I think that I will get a better understanding about how to estimate the tasks and user stories. 
+### How can I help someone else, or the entire team, to learn something new?
+I have installed all the components needed to get the development environment to work. I can build and run the app! I have also made small modifications to the app to make sure that everything works. If anyone on the team or even on the other teams has a problem with getting the development environment  to work , I will do my best to help them (preferable if they are using windows).
+### What is my contribution towards the team’s application of scrum?
+I have participated in Scrum meetings and daily scrums. I was active while discussing the upcoming sprints userstories/tasks and I came with input to the teams reflection. We had a meeting with the product owner and the end-user to be able to get a better understanding about what features they want to have implemented the application.  
+### What is my contribution towards the team’s deliveries?
+The development environment  works for me and I'm ready to start develop. I will continue to read the documentation and look at the source code to get more understanding about how the app is written. I will get started with JavaScript/ReactNative by following video tutorials. 
+
+
+**Time spent:** Lectures & exercises: 2h , Setting up the development enviorment: 10h , group meetings 6h
+**Total: 18h**
+
