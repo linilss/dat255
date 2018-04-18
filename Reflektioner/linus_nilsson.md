@@ -39,3 +39,17 @@ This week's ambition was to learn more about android studio and android programm
 **Total:** 11h
 
 
+
+## Week 3
+### What do I want to learn or understand better?
+The past week has proved to me that I don't know scrum or agile methods as well as I thought, where I've realized that some concepts are not as I first thought. But that's why we keep working on it and trying it out. After all, one of the main concepts are that you keep tweaking the methods endlessly to always get better.
+
+### How can I help someone else, or the entire team, to learn something new?
+I think I will be able to help parts of the group with react programming, since I've tried it out before.  
+
+### What is my contribution towards the team’s application of scrum?
+I've contributed with my efforts in our application of daily scrum. Also had some insight in the creation of user stories.
+
+### What is my contribution towards the team’s deliveries?
+The whole past week has been about getting the portablecdm app up and running. We didn't manage to do that before this monday and I feel that I've helped the people that hadn't got it up at the time I did.
+
