@@ -36,3 +36,53 @@ Tuesday: 18-21, Android Studio + tutorials = 3 hours
 Wednesday: 13-15, Lecture = 2 hours
            15-17, Group Meeting = 2 hours
 Total = 19 hours
+
+## Week 3
+### What do I want to learn or understand better?
+For the future, I would like to understand React Native better, and how the PortableCDM-app works.
+
+### How can I help someone else, or the entire team, to learn something new?
+
+By focusing on becoming an expert on React Native, I hope to be able to help everyone that has questions or does not understand the workings of the app. I will also try to share any tutorials I come across which I find good, so others can try to learn themselves as well.
+
+### What is my contribution towards the team’s application of scrum?
+I have attended the weekly scrum meeting, where we discussed and wrote our group reflection, as well as planned the next sprint.
+
+### What is my contribution towards the team’s deliveries?
+I have the past weeks spent a lot of time understanding Android development, which turned out to be a mistake. I had missed that the app used React Native and was not natively written for android (I had assumed this was the case due to the android tutorial provided on the course page). THerefor I have studied a lot more about android studio and android than needed for this project.
+So, for the second part of this sprint I have battled with trying to get the PortableCDM-app and Expo to work instead. I eventually succeeded, after lots of error and issues. I can now login to the service with the credentials provided in the emulator.
+
+I succeeded in completing both tasks in the sprint, getting the app to work, and change a small element in it (I changed the text in a couple of places)
+Unfortunately I missed the first handledartillfället due to a job interview, but I feel like I have gotten up to date about what was said.
+
+NOTE: This sprint was much longer than usual our change to ending on wednesdays, making it 1,5 weeks.
+NOTE: I also worked during the easter holiday with my goal, which is why I report the time for 2.5 weeks here.
+
+My total time spent was
+Friday:
+    8-12, Android Studio + tutorials = 4 hours
+    13-17,  Android Studio + tutorials = 4 hours
+Monday:
+	8-12, Android Studio + Tutorials = 4h
+Tuesday:
+	8-9, Reflection + planning = 1h
+	9-13, Android studio = 4h
+Wednesday:
+	8-12 Android studio = 4 hours
+	13-17 Android studio = 4 hours
+Sunday:
+	19-21 Android Studio = 3 hours
+-----
+Monday:
+	9-12 Try to get Expo and app to work = 3 hours
+	13-15 Föreläsning = 2 hours
+Tuesday:
+    18-20 Try to get Expo and app to work = 2 hours
+Sunday:
+    17-21 Try to get Expo and app to work = 4 hours
+------
+Monday:
+	13-17 Try to get Expo and app to work with the group = 4 hours
+Wednesday:
+    13-16 Möte = 3 hours
+Total = 46 hours
