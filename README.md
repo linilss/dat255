@@ -21,3 +21,8 @@ Samtlig information som behövs för att arbeta med en task skall finnas tillgä
 - var dokumnetationen återfinns
 
 Detta för att underlätta kommunikation och självständigt arbete. 
+
+
+### Bra lista med båtförkortningar
+https://www.admiralty.co.uk/AdmiraltyDownloadMedia/Distributor%20Downloads/Glossary%20of%20Terms%20-%20ADMIRALTY%20Passage%20Planner.pdf
+
