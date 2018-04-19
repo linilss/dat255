@@ -9,7 +9,7 @@ I try to discuss the best way to split up the work with them the best I can. How
 ### What is my contribution towards the team’s deliveries?
 I have attended the lectures, to try to learn Scrum the best I can. Outside of that we had some group meetings where we all got together and discussed how we will work. I helped others with Git and creating the reflection-files in the proper format for displaying at GitHub. I also spent some time on my own to improve my Git skills.  
   
-**My total time spent was 14 hours**
+**My total time spent was 14 hours**  
 Monday: 13-17 Lecture = 4 hours  
 Wednesday: 13-17 Lecture = 4 hours  
 Thursday: 19-21, Git study = 2 hours  
@@ -70,7 +70,7 @@ Wednesday:
 	13-17 Android studio = 4 hours  
 Sunday:  
 	19-21 Android Studio = 3 hours  
------  
+
 Monday:  
 	9-12 Try to get Expo and app to work = 3 hours  
 	13-15 Föreläsning = 2 hours  
@@ -78,7 +78,7 @@ Tuesday:
     18-20 Try to get Expo and app to work = 2 hours  
 Sunday:  
     17-21 Try to get Expo and app to work = 4 hours  
-------  
+ 
 Monday:   
 	13-17 Try to get Expo and app to work with the group = 4 hours  
 Wednesday:  
