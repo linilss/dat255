@@ -24,16 +24,23 @@
 --- Directly ---
 
 *ReadyToSailOp_Commenced
-*ReadyToSailOp_Completed
+*CargoOp_Commenced
 *SludgeOp_Commenced
-*SludgeOp_Completed
 *WaterOp_Commenced
+
+*ReadyToSailOp_Completed
+*SludgeOp_Completed
 *WaterOp_Completed
+*CargoOp_Completed
+
 *Arrival_Vessel_AnchorageArea
 *Arrival_Vessel_TugZone
 *Departure_Vessel_TugZone
+
 *Pilotage_Requested
 *WaterOp_Requested
+*Gangway_Requested
+
 
 --- Indirectly ---
 *Arrival_Tug_Vessel
@@ -46,11 +53,15 @@
 *Departure_SlopVessel_Vessel
 *Departure_FreshWaterVessel_Vessel
 
+*Gangway_Confirmed
+*PortVisit_Confirmed
 *Pilotage_Confirmed
 *WaterOp_Confirmed
+
 *WaterOp_Denied
-*PortVisit_Confirmed
 *PortVisit_Denied
+*Gangway_Denied
+*Pilotage_Denied
 
 
 
