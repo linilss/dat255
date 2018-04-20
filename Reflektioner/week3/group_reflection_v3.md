@@ -53,7 +53,7 @@ Detta genom att följa de steg vi nämnde i Scope of Application.
 *(such as class diagrams, domain models or component diagrams)*
 
 Vi är ännu i ett tidigt stadie men har börjat fundera på vilka sidor och funktioner som är viktigast för kaptenen. 
-Nedan följer en skiss av vad vi hittills kommit fram till.
+Bifogat i reflektion för v 3 finns en skiss av vad vi hittills kommit fram till.
 
 
 ### Your user stories
