@@ -4,6 +4,9 @@
 
 ### För att få hjälp med git - gå till mappen git-help-pls
 
+### Själva appen ligger i ett annat repo:
+
+## https://github.com/linilss/portablecdm
 
 
 ### Scrum-guide
