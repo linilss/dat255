@@ -25,10 +25,10 @@ Detta för att underlätta kommunikation och självständigt arbete.
 
 ### Varje sprint skall innehålla: 
 
-daily scrum - måndag onsdag fredag
-sprint review - avslutande utvärdering i grupp och individuellt
-sprint retrospective - feedback från end user och produktägare
-trello för sprint backlog & estimat
+- daily scrum - måndag onsdag fredag
+- sprint review - avslutande utvärdering i grupp och individuellt
+- sprint retrospective - feedback från end user och produktägare
+- trello för sprint backlog & estimat
 
 
 
