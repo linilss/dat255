@@ -43,3 +43,48 @@ The development environment  works for me and I'm ready to start develop. I will
 **Time spent:** Lectures & exercises: 2h , Setting up the development enviorment: 10h , group meetings 6h
 **Total: 18h**
 
+
+## Week 4
+### What do I want to learn or understand better?
+
+During this sprint I have started with some react native development and I will continue with that and learn by trying. I'm facing some difficulties with git, I have never used git in this "correct" and advanced way and I feel a bit lost sometimes, when facing the difficulties I will ask my team members for help. 
+
+### How can I help someone else, or the entire team, to learn something new?
+
+I really like to discuss different ways to find and reach a solution, by inviting to discussions I feel that I can help my team to reach our common goals. I have experience in programming in general and if someone needs help to solve a programming-oriented issue I'm going to try my best to help them out.  
+
+### What is my contribution towards the team’s application of scrum?
+I have participated in Scrum meetings and daily scrums. I was active while discussing the upcoming sprints userstories/tasks and I came with input to the teams reflection. I have been the contact person between us in the group and the end user. I have come up with ideas and reflections with the end-user so that we in the team has gotten a clear idea about what to do.   
+
+### What is my contribution towards the team’s deliveries?
+
+During this sprint I have sorted out the most useful statements for the "Vessel" in the big states catalog. The useful statements is now shown as default favorites for a Captain. I have also reviewed some tasks done by my team members. During the next sprint I would like to do some more actual coding. 
+
+**Time spent:** Lectures & exercises: 2 , Finding the most useful statments: 2 , group meetings 8h ,discussions and helping: 4h 
+**Total: 16h**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
