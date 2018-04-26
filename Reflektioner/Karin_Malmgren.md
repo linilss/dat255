@@ -73,6 +73,27 @@ This sprint consisted of 1,5 weeks.
 **Teamwork**: 6h (missed one meeting) 
 **Own work**: 14h
 
+## Vecka 4
+
+**What do I want to learn or understand better?**
+
+Denna vecka gjorde jag mina första ändringar till appen som faktiskt var en del av våra user stories. Det kändes som ett stort framsteg för mig eftersom jag varit lite osäker och nervös över att mergea de branches som vi gjort våra features i. Gruppen har varit jättebra stöd under hela veckan. Jag har haft en del problem med min dator då den blir väldigt långsam när jag använder emulatorn. Jag upptäckte däremot att jag genom expo kan använda min telefon som emulator vilket underlättar.  Under denna sprint vill jag jobba på att bli mer självständig så att gruppen kan fokusera mer på vad som faktiskt behöver göras. Tror det lättast uppnås genom att öva, öva, öva. 
+
+**How can I help someone else, or the entire team, to learn something new?**
+
+Jag har börjat få ganska god översikt över hur appen är uppbyggd och var de olika funktionerna och viewsen finns i koden. Det är bra att kunna dela med sig av när olika förändringar ska göras. Tror även att jag kan bidra i utformningen av våra tasks så att de fyller funktion för end user och product owner.  
+ 
+**What is my contribution towards the team’s application of scrum?**
+
+Jag har deltagit på daily scrums, aktivt arbetat med scrumboard, kommunicerat med end user och product owner. Gruppen har jobbat på bra med användningen av scrum och en scrumguide har utformats. 
+ 
+**What is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).**
+  
+Jag har under sprinten tittat en del på koden för appen för att bekanta mig med JavaScript, jag är inte helt nöjd med min insats och känner att jag borde lägga ner lite mer tid på det. Mitt mål till nästa sprint är att självständigt kunna använda textredigerare, github och emulator utan att behöva be andra i gruppen om hjälp eller bekräftelse. För att uppnå det så planerar jag att lägga ned mycket tid på att skapa grenar för olika features och mergea. Även använda ett test-repo när jag är osäker på hur saker och ting fungerar. 
+
+**Teamwork**: 14h 
+**Own work**: 5h
+
 
 
  
