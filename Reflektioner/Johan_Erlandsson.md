@@ -71,4 +71,33 @@ Som tidigare nämnt har denna vecka kretsat kring att komma igång med utvecklin
 
 **Spenderat på:** Föreläsnigar, handledning, grupp-möten och inlärning av Android studio
 
+## Week 4
+
+### What do I want to learn or understand better?
+
+Nu när vi har kommit igång en hel del med programmeringen inser jag att det jag framför allt vill lära mig mer är JavaScript. För att lära mig mer JavaScript kommer jag att prata med de andra i gruppen som besitter mer kunskap om det än vad jag gör, samt kolla på en hel del tutorials på youtube och ta del av andra hjälpmedel som finns tillgängliga.
+
+Jag vill även förtstå mig på examninationen i denna kurs mer för att vara säker på vad exakt som kommer bedömmas och hur jag/vi skall arbeta för att uppnå det. För att lära mig mer om detta kommer jag samtala med Burden och de andra ansvariga för kursen.
+
+Som grupp vill jag se att vi kommer igång med parprogrammering och ett generellt efektivare arbetssätt som gör att vi delar upp de olika objekten i backlogen smidigare och jobbar mot dem tillsammans i par. För att göra detta skall jag ta upp det på nästa scrum-möte
+
+
+### How can I help someone else, or the entire team, to learn something new?
+
+Nu 
+
+Då många både i vår grupp samt de andra grupperna hade problem med att komma igång med att bygga appen i en utvecklarmiljö tänker jag att så fort jag har lärt mig någonting som kan gynna processen av att komma igång med utveckling delar jag med mig utav det på bästa sätt jag kan till de andra medlemmarna som behöver hjälp! Detta gäller även om jag skulle hitta någon fakta-källa som hjälper till med utvecklingen.  
+
+
+### What is my contribution towards the team’s application of scrum?
+
+Som tidigare veckor genomfördes diverse gruppmöten där vi körde intensiva SCRUM-s. Vi startade även en Sprint som skulle sträcka sig över en vecka. Denna startades onsdagen den 10/4 och skulle hålla på i en vecka. Det var först efter denna vecka vi hade träffat vår product owner samt handledare och diskuterat vad som skulle vara aktuellt att implementera i appen.
+
+### What is my contribution towards the team’s deliveries?
+
+Som tidigare nämnt har denna vecka kretsat kring att komma igång med utvecklingsmiljön vilket är något jag och de andra i gruppen har jobbat mycket med. Vi har även satt oss in i vad som önskas utvecklas med appen samt vad som kan vara aktuellt att göra för att lyckas få ett så kallat "Hello world"-bevis på att vi har kommit igång med utveckling av appen.
+
+**Total tid:** 10h
+
+**Spenderat på:** Föreläsnigar, handledning, grupp-möten och inlärning av Android studio
 
