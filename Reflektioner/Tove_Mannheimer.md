@@ -44,6 +44,7 @@ git tutorials & learning scrum: 4 h
 total: 10 h 
 Please note that this sprint consisted of only 3 days.
 
+
 **Week 3**
 
 **What do I want to learn or understand better?**
@@ -64,4 +65,26 @@ group meetings: 3 h
 Trying to build code in AS: 8 h
 total: 13 h 
 
+**Week 4**
 
+**What do I want to learn or understand better?**
+For this sprint my aim was to understand what delivered value to the customer. I think I succeeded in this by carefully reading the app description, talking to the end user and discussing with my team. 
+For the next sprint my focus will still be partly the same. In addition I will try to understand the structure of the existing application better by reading and trying to understand the code. I will try to do this by learning from my team members, the app description and by navigating the code in atom. Just like last week, I want to continue to improve my skills in android studio and scrum methodology. This by being scrum master and trying to apply scrum in the best sense possible. Android studio, git and version control will be a natural part of the future work of the group, and my experience in these areas will continue to grow. 
+
+**How can I help someone else, or the entire team, to learn something new?**
+Last sprint me and other members of the team sat down together to work on task breakdown and tried to understand how to work on our user stories. By doing this i think we all got a better understanding of the project and its scope. I have also tried to be helpful in the work with version control. By trying to learn new skills in the area I hope to further develop my own skills, while sharing knowledge with my team. Other than that I try to share information with the team in our slack chat and stay attentive to the discussion going on in there.  
+
+**What is my contribution towards the team’s application of scrum?**
+I have participated in all the daily scrum meetings of the sprint. I have also developed the user stories and shaped a "scrum-guide" for the trello board together with Linus. The guide enables a standardised way of writing user stories and tasks for the sprint backlog, to make the team work easier. Other than that the group performed a retrospective with the end user and a review with the team to summarise the sprint. I have been scrum master this sprint and participated in the scrum of scrums. 
+
+
+**What is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).**
+My learning objectives for the sprint was to understand the existing code better and to be able to make the changes we aspired to do. I believe I achieved this by getting to work with smaller changes in the code, as well as reading the app manual more carefully. I still need to understand the structure of the existing code better to be able to make larger changes to the code, something I hope to achieve this week with some help from my team members. The reason I need a better understanding is to be able to implement larger tasks, such as adding an ETA view in the menu. 
+
+
+**Time spent on course**
+lectures: 0 h
+group meetings: 8 h
+meeting end user: 1 h
+Changing code in atom: 15 h
+total: 24 h 
