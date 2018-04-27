@@ -1,5 +1,7 @@
 # Linus Nilsson - Reflection
-## Week 1
+
+
+# Week 1
 ### What do I want to learn or understand better?
 Jag kände mig redan hyfsat bekväm med både git och scrum innan kursens start, vilket kanske ger mig en lite edge i lärandet av de just nämnda. Men jag tror starkt på att både att lära genom dels att lära ut och genom repetition, därför tänker jag vidareutveckla kunskaper inom respektive område. 
 
@@ -21,7 +23,7 @@ Nästa vecka vill jag ha kommit igång, så att alla känner sig bekväma med ve
 
 **Total:** 15h
 
-## Week 2
+# Week 2
 ### What do I want to learn or understand better?
 As a person that never REALLY has tried android programming before, I'm super pumped to get to this project. I've got the basics during the week, in saving global variables in res, the lifecycle methods and so on, now it's just connecting the dots and utilize it in an actual project. The next sprint will officially be the beginning of the project, so during the break I'll keep working on android, scrum and git.
 
@@ -40,7 +42,7 @@ This week's ambition was to learn more about android studio and android programm
 
 
 
-## Week 3
+# Week 3
 ### What do I want to learn or understand better?
 The past week has proved to me that I don't know scrum or agile methods as well as I thought, where I've realized that some concepts are not as I first thought. But that's why we keep working on it and trying it out. After all, one of the main concepts are that you keep tweaking the methods endlessly to always get better.
 
@@ -53,3 +55,22 @@ I've contributed with my efforts in our application of daily scrum. Also had som
 ### What is my contribution towards the team’s deliveries?
 The whole past week has been about getting the portablecdm app up and running. We didn't manage to do that before this monday and I feel that I've helped the people that hadn't got it up at the time I did.
 
+# Week 4
+
+### What do I want to learn or understand better?
+Under den gångna sprinten hade jag som mål att skaffa bättre förståelse kring scrum och andra agila metoder, vilket jag känner att jag börjar greppa mer och mer. Kronan på verket i en burndown chart har jag inte hunnit sätta upp, men förhoppningsvis kan de göras efter nästa sprint, då vi faktiskt har två sprintar med estimerade tasks.
+
+### How can I help someone else, or the entire team, to learn something new?
+Föregående vecka ville jag under den nu gångna sprinten dela med mig av mina kunskaper inom react native, vilket jag känner att jag delvis har gjort. Att det nu är native och inte på webben har gjort det lite problematiskt, men koncepten är desamma och jag hoppas att det varit till nytta för de andra gruppmedlemmarna. Fokus under kommande veckan kommer fortsatt ligga på att hjälpa samtliga i gruppen med react-programmeringen. 
+
+### What is my contribution towards the team’s application of scrum?
+Jag har deltagit på alla moment och hjälpt till att ta fram user stories samt satt upp en scrum-guide (ett litet eget manifesto med riktlinjer för gruppen). 
+
+### What is my contribution towards the team’s deliveries?
+Jag har sett till att folk kommit på banan snabbt med react samt fokuserat på att ta fram MVP:s att presentera för produktägare. 
+
+### Time spent on course**
+Gruppmöten: 8 h
+Möte med end user: 1 h
+Självständigt arbete: 12 h
+total: 19h
