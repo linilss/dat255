@@ -51,9 +51,9 @@ I have the past weeks spent a lot of time understanding Android development, whi
 So, for the second part of this sprint I have battled with trying to get the PortableCDM-app and Expo to work instead. I eventually succeeded, after lots of error and issues. I can now login to the service with the credentials provided in the emulator.
 
 I succeeded in completing both tasks in the sprint, getting the app to work, and change a small element in it (I changed the text in a couple of places)
-Unfortunately I missed the first handledartillfället due to a job interview, but I feel like I have gotten up to date about what was said.  
+Unfortunately I missed the first handledartillfälle due to a job interview, but I feel like I have gotten up to date about what was said.  
   
-NOTE: This sprint was much longer than usual our change to ending on wednesdays, making it 1,5 weeks.  
+NOTE: This sprint was much longer than usual our change to ending on Wednesdays, making it 1,5 weeks.  
 NOTE: I also worked during the easter holiday with my goal, which is why I report the time for 2.5 weeks here.  
   
 **My total time spent was 46 hours**  
@@ -67,19 +67,43 @@ Tuesday:
 	9-13, Android studio = 4h  
 Wednesday:  
 	8-12 Android studio = 4 hours  
-	13-17 Android studio = 4 hours  
+	13-17, Android studio = 4 hours  
 Sunday:  
-	19-21 Android Studio = 3 hours  
+	19-21, Android Studio = 3 hours  
 
 Monday:  
-	9-12 Try to get Expo and app to work = 3 hours  
-	13-15 Föreläsning = 2 hours  
+	9-12, Try to get Expo and app to work = 3 hours  
+	13-15, Lecture = 2 hours  
 Tuesday:  
-    18-20 Try to get Expo and app to work = 2 hours  
+    18-20, Try to get Expo and app to work = 2 hours  
 Sunday:  
-    17-21 Try to get Expo and app to work = 4 hours  
+    17-21, Try to get Expo and app to work = 4 hours  
  
 Monday:   
-	13-17 Try to get Expo and app to work with the group = 4 hours  
+	13-17, Try to get Expo and app to work with the group = 4 hours  
 Wednesday:  
-    13-16 Möte = 3 hours  
+    13-16, Meeting = 3 hours
+    
+## Week 4
+### What do I want to learn or understand better?
+I still have a hard time grasping the overall functionality of the PortableCDM-app, where things happen, where and how data is stored and such. I need to take a deepdive and try to understand the application at its core to be able to work with it, and make changes to it, more efficiently.
+
+### How can I help someone else, or the entire team, to learn something new?
+Since I have successfully made changes to the app now that actually work, I believe I can help others at least somewhat in doing the same, with tips on where some things are and how some things work. Whenever questions are asked I do my best to try and answer them.
+
+### What is my contribution towards the team’s application of scrum?
+Unfortunately I missed the weekly scrum where the group reflection was written due to people coming to fix a water leakage in my appartment. Since I missed that, I also missed the beginning of the sprint. However, I have signed up for a task (K8) in the sprint backlog, as well as attended at any other meetings with the group.
+
+### What is my contribution towards the team’s deliveries?
+My task for this sprint was to set up the default favorite states in the app to match the one that needed according to the states collected by Fredrik (which consisted of both those in the minimum required states documents, as well as the ones requested by the end-user)
+I had a bit of trouble doing this since I do not understand the code of the app very well, but after some trial and error I succesfully located the place where they are set when the app is started for the first time, as well as filled in the required states as defaults.
+
+**My total time spent was 10 hours**  
+Thursday:  
+    16-17, Reflection + planning = 1 hour  
+Friday:
+	13-17, Working with Git and Expo + Task K1 = 4 hours
+Sunday:
+	10-12, Working on Task K1 = 2 hours
+Monday:
+    13-16, Working on Task K1 = 3 hours
