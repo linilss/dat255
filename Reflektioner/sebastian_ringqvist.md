@@ -43,3 +43,24 @@ That means that for the personal learning objective you will each week write dow
 I have gained more experience in how to apply Scrum, Git and Android Studios. Achieved by participating in daily Scrum meetings and working with our Scrum board, getting more familiar with Git through tutorials and literature and by doing this weeks exercise, building an application in Android studios. Next week I want to learn more about the tools Scrum, Git, Android studios and the task of our project. I will make it happen by study course literature, watch tutorials, learn from other team members and study given material about the project.  
 
 **Time spent:** Lectures & exercises: 4h, tutorials: 1h , group meetings 4h **Total: 9h**
+
+
+## Vecka 3
+
+**What do I want to learn or understand better?** 
+
+This sprint has been for 1,5 week and we have been worked with the development environment. It was quite dificult and I want to learn more about how to use Git and Android Studios, it is a bit tricky. We have also made user stories for the project and I want to learn more about how to estimate and value each task. I think Scrum is a really good working tool and I want to be good and able to use it after this course. 
+
+**How can I help someone else, or the entire team, to learn something new?**
+
+Many error occured when working with the development environment we have been working over and over again with same errors. I can help when these errors appears and try to help and try correct them.
+
+**What is my contribution towards the team’s application of scrum?**
+
+I´ve been away during some days and therefore dificult to participate in daily scrum. When coming back the team helped me get back on track. I´ve been participating in daily Scrum. 
+
+**What is my contribution towards the team’s deliveries?**
+
+I have the develop environment working and cloned the repo to Android studios. I have learned more about android studios and to work in git. It takes practice but I feel that I´m making progress and gaining more experience in what I´m doing. 
+
+Time spent on course **Time spent:** Lectures & exercises: 4h, tutorials: 1h , group meetings 4h **Total: 9h**
