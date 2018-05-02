@@ -63,6 +63,27 @@ During this sprint I have sorted out the most useful statements for the "Vessel"
 **Time spent:** Lectures & exercises: 2 , Finding the most useful statments: 2 , group meetings 8h ,discussions and helping: 4h 
 **Total: 16h**
 
+## Week 5
+### What do I want to learn or understand better?
+
+During the sprint, two days were lost due to Valborg and May 1th which resulted in a few unfinished tasks since we didn't plan the sprint good enough. This could have been avoided by acknowledging the fact that we knew that the two days would be lost. To the coming sprint I would like to plan the sprint better, the number of tasks should and the size of the tasks shouldn't be too big. I want to learn how to form the sprintbacklog, according to the actual available time window. This will be through a more accurate time review and understanding lasts sprints issues. 
+
+### How can I help someone else, or the entire team, to learn something new?
+
+I really like to discuss different ways to find and reach a solution, by inviting to discussions I feel that I can help my team to reach our common goals. I have experience in programming in general and if someone needs help to solve a programming-oriented issue I'm going to try my best to help them out. 
+
+The main technical problem we are facing is to understand how to reuse the existing code in a way we are pleased with. This means that we need to understand the code and I can see myself helping my team members with that. I found it easier to understand code by discussing it.
+
+### What is my contribution towards the team’s application of scrum?
+I have participated in Scrum meetings and daily scrums. I was active while discussing the upcoming sprints userstories/tasks and I came with input to the teams reflection. I have been the contact person between us in the group and the end user. I have come up with ideas and reflections with the end-user so that we in the team has gotten a clear idea about what to do.   
+
+### What is my contribution towards the team’s deliveries?
+
+During this sprint I have taken back a feature that we removed during previous sprint, it turned out that the end-user wanted that feature after all. Beyond reviewing tasks I helped with displaying a vessel's destination port instead of its name. During the coming sprint I will contribute to the development of the new ETA-view that we started with this sprint. 
+
+**Time spent:** Tutorial: 2 , Recovery removed feature:  3 , group meetings 4h ,discussions and helping: 2h 
+**Total: 11h**
+
 
 
 
