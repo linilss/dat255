@@ -94,6 +94,29 @@ Jag har under sprinten tittat en del på koden för appen för att bekanta mig m
 **Teamwork**: 14h 
 **Own work**: 5h
 
+## Vecka 5
+
+**What do I want to learn or understand better?**
+
+Förra veckans mål var att bli mer självständig i utvecklingen. Jag har fått bättre förståelse för hur props och funktioner osv. fungerar. Genom mycket gemensamma möten och en del parkodning har vi i gruppen kunnat dela med oss av våra kunskaper, det har underlättat veckans arbete med tasksen mycket. Jag hade lite problem med att få min feature på appen att fungera men fick hjälp av en gruppmedlem som sedan kunde förklara hur han löst uppgiften. Denna vecka vill jag fortsätta att utvecklas och lära mig mer om hur koden fungerar. Jag kommer fortsatt arbeta med scrummetodiken och de verktyg vi valt att arbeta med. Utvecklingen kommer förhoppningsvis ske med hjälp av parkodande och målet är att skapa en timeline för vår ETA-view i slutet av sprinten. Det är viktigt att vi bibehåller bra kontakt med end user och product owners så att det vi utvecklar möter deras förväntningar och behov (och om inte kommuniceras till dem). 
+
+**How can I help someone else, or the entire team, to learn something new?**
+
+Jag har en del ideér för hur olika tasks kan designas för att både matcha behov och bli användarvänliga. Genom att skissa upp och kommunicera till resten av gruppen blir det lättare att komma överens om utformning och sedan använda skisserna för att stärva mot samma mål i utvecklandet. Denna vecka kommer vi samarbeta med uppgifter och det blir ett naturligt sätt att kommunicera och dela med sig av sin kunskap. Utöver det så satsar jag på att vara aktiv på möten och i slackkanalen för att att se till att gruppen tar sig framåt. 
+ 
+**What is my contribution towards the team’s application of scrum?**
+
+Vi har följt scrummetodiken och jag har tillsammans med resten av gruppen deltagit aktivt i alla moment. Jag lyckades inte genomföra en av de tasks jag tagit mig an, men fick i slutet av sprinten hjälp vilket gjorde att det löste sig. Denna vecka fortsätter vi att använda scrumguide och det vi lärt oss.   
+ 
+ 
+**What is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).**
+  
+Mitt mål förra veckan var att lära mig mer om utvecklandet och bli mer självständig i användningen av verktygen. Jag tycker att en förbättring har skett och min förståelse har ökat. Jag har kunnat göra många av de förändringar jag önskat och fått mycket bra tips och råd från resten av gruppen på vägen. Denna vecka vill jag fortsatt se utveckling rörande detta. Målet för nästa vecka är att kunna utveckla en tidslinje för ETA-vyn som är utformad efter product owners och end users önskemål. För att göra det måste vi mer specifikt förstå vad som skapar värde för aktörerna och hur det kan presenteras på bästa sätt. Vi ska skissa på ideér som passar innan vi utför förändringarna. 
+
+**Teamwork and groupmeetings**: 8h 
+**Own work**: 7h
+
+**Denna sprint var något kortare pågrund av Valborg**
 
 
  
