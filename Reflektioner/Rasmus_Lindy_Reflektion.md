@@ -70,3 +70,22 @@ Jag har suttit och parprogrammerat under denna vecka, då det oftast är lättar
 *That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).*
 
 Jag har nu lärt mig hur man använder utvecklingsverktygen react-native, expo och gradle. inför nästa vecka vill jag lära mig hur man använder dom funktioner som react-native bidrar med, för att lättare kunna läsa appen och omkonstruera den utifrån våra behov. För att uppnå detta tänker jag fortsätta läsa på react-natives hemsida, samt titta på kodexempel och tutorials.
+
+## Week 5
+### What do I want to learn or understand better?
+
+Jag vill fortsätta att lära mig javascript. Samt react-native relaterade features som props och states.
+
+### How can I help someone else, or the entire team, to learn something new?
+
+Vi har behövt ett sett att kolla kodkvaliteten. Alltså buggar, redudancy mm. Jag har tittat på ett sådant verktyg och kan lära gruppen hur man använder det.
+
+### What is my contribution towards the team’s application of scrum?
+
+Har fortsatt med reviews på tasks samt fixat buggar och tagit på mig och avklarat tasks.
+
+### What is my contribution towards the team’s deliveries?
+*That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).*
+
+Det återstår fortfarande del saker inom javascript och react-native som jag känner att jag behöver lära mig. Kommande vecka tänkter jag fortsätta med detta på samma sätt som veckan innan. Genom youtube och andra källor där det finns tutorials.
+
