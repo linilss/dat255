@@ -89,3 +89,22 @@ Har fortsatt med reviews på tasks samt fixat buggar och tagit på mig och avkla
 
 Det återstår fortfarande del saker inom javascript och react-native som jag känner att jag behöver lära mig. Kommande vecka tänkter jag fortsätta med detta på samma sätt som veckan innan. Genom youtube och andra källor där det finns tutorials.
 
+## Week 6
+### What do I want to learn or understand better?
+
+Under förra veckan fortsatte jag med att förstå mig på react-native och javascript. Det har lossnat till viss del, men jag känner att jag behöver fortsätta med samma sak. Trotts att det går bättre att förstå koden och göra dom tasksen som vi kommer fram till i gruppen. Så till nästa vecka tänker jag fortsätta att läsa på om react-native, javascript men också hur bugghanteraren Codacy kan användas på effektivast sätt.
+
+### How can I help someone else, or the entire team, to learn something new?
+
+Förra veckan tog jag på mig att leta ett debuggverktyg för javascript och hittade codacy. Jag har bra förståelse för hur det fungerar och tittade på olika tutorials som jag kan skicka vidare i gruppens clack chatt.
+
+### What is my contribution towards the team’s application of scrum?
+
+Fortsätter som förra veckan med att reviewa och utföra tasks. Bidrar även med att reviewa koden med debuggverktyget Codacy för att gruppens kodkvalité ska vara så bra som möjligt.
+
+### What is my contribution towards the team’s deliveries?
+*That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).*
+
+Behöver somsagt fortsätta med att lära mig react-native och javascript. Kommer göra detta på samma sätt som förra vecken, genom tutorials på nätet och youtube. Dock har jag tillräcklig kunskap för att utveckla i appen och utföra tasks, vilket också bidrar till mer kunskap. Plus att jag kommer att fotsätta utforska Codacy och utföra analyser på koden för att åstadkomma en stabil och säker kodkvalitet.
+
+
