@@ -118,6 +118,31 @@ Mitt mål förra veckan var att lära mig mer om utvecklandet och bli mer själv
 
 **Denna sprint var något kortare pågrund av Valborg**
 
+## Vecka 6
+
+**What do I want to learn or understand better?**
+
+Sprinten har varit utvecklande och jag har bidragit till skapandet av en timeline till ETA-viewn. På vägens gång lärde jag mig att sålla bland states och en del om hur jag med enkla medel kan ändra utseendet i vyn. Vi har samarbetat och utvecklat tillsammans. Vi fick positiv feedback från både end user och product owner vilket kändes bra. Denna vecka ska jag tillsammans med Gustav i gruppen lägga in nedräknings-och notisfunktion i appen, målet är därför att lära mig om hur lämpliga paket fungerar och hur jag integrerar dem i appen. Till min hjälp har jag all kunskap hos mina gruppmedlemmar men jag kommer även till stor del ta hjälp av youtube och relevanta forum. 
+
+**How can I help someone else, or the entire team, to learn something new?**
+
+Under sprinten lärde jag mig en hel del om timeline-vyn och modifierandet av denna. Nästkommande sprint ska en ny vy göras med lite annan funktionalitet men med en del snarlika komponenter. Jag tänker därför kommunicera till gruppen vad jag lärt mig under tidigare sprintar så att det underlättar arbetet framåt och vi kan återanvända så mycket kunskap som möjligt.  
+ 
+**What is my contribution towards the team’s application of scrum?**
+
+Under veckan har vi arbetat enligt scrum med de förutsättningar vi haft. Jag har deltagit och varit aktiv i alla moment. Jag har avslutat de tasks jag tagit mig an under sprinten och är redo för en ny sprint med nya uppgifter. 
+
+**What is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).**
+  
+Målet för denna sprint var att utveckla en tidslinje för ETA-vyn efter önskemål, och skissa på utformningen av detta. Målet är uppnått men inte på egen hand. Vi har tillsammans hjälpts åt mycket vilket gjort att jag lärt mig massor om hur olika delar av koden fungerar. Jag har förutom arbete med kod hjälpt till att rita bilder över vår målbild. Nästa vecka vill jag som jag tidigare var inne på lära mig mer om paket som tillåter oss att ha nedräknare och notifikationer i appen. Jag tror att detta kan tillföra stort värde till appen och i synnerhet till kaptenen. För att nå dit tar jag hjälp av gruppens medlemmar, youtube och forum. Den kommande sprinten är kortare än normalt på grund av kristihimmelsfärd vilket gör att jag vill ta på mig ett mål som jag tror jag klarar av inom given tidsram. 
+
+**Teamwork and groupmeetings**: 6h 
+**Own work**: 9h
+
+
+
+
+
 
  
 
