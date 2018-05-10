@@ -101,3 +101,62 @@ Som tidigare nämnt har denna vecka kretsat kring att komma igång med utvecklin
 
 **Spenderat på:** Föreläsnigar, handledning, grupp-möten och inlärning av Android studio
 
+## Week 5
+
+### What do I want to learn or understand better?
+
+
+Precis som förra veckan vill jag fortsätta utveckla mina kunskaper om Javascript, React native för att kunna bygga appen så bra som möjligt. För att göra detta ska jag ta hjälp av de andra gruppmedlemmarna och diverse hjälpmedel som finns online.
+
+Jag har blivit mer säker på hur examinationen går till men känner även att saker kan förtydligas. Därför skall jag läsa igenom kurshemsidan en gång till så utförligt jag bara kan.
+
+
+
+### How can I help someone else, or the entire team, to learn something new?
+
+Nu har jag börjat lära mig lite lätt Javascript och känner att jag kan hjälpa till de som behöver hjälp. Kan även hjälpa till laget genom att pusha på att börja med slutreflektionen i tid.
+
+
+
+### What is my contribution towards the team’s application of scrum?
+
+Har deltagit på samtliga scrums och arbetat mot backlogen där våra olika tasks finns.
+
+### What is my contribution towards the team’s deliveries?
+
+Denna vecka har jag arbetat emot att ta fram nya "views" i appen och programmerat de funktioner som behövs där. Den viewn som har vart mest i fokus är den så kallade "ETA-viewn". 
+
+
+**Total tid:** 12h
+
+**Spenderat på:** Handledning, grupp-möten och programmering utav appen
+
+## Week 6
+
+### What do I want to learn or understand better?
+
+
+Precis som förra veckan vill jag fortsätta utveckla mina kunskaper om Javascript, React native för att kunna bygga appen så bra som möjligt. För att göra detta ska jag ta hjälp av de andra gruppmedlemmarna och diverse hjälpmedel som finns online.
+
+Denna vecka har tyvärr min utvecklingsmiljö kraschat, så jag vill lära mig att felsöka den samt att få den att fungera igen. För att göra detta skall jag fråga handledare och mina kära gruppmedlemmar.
+
+
+
+### How can I help someone else, or the entire team, to learn something new?
+
+Nu har jag börjat lära mig lite lätt Javascript och känner att jag kan hjälpa till de som behöver hjälp. Kan även hjälpa till laget genom att pusha på att börja med slutreflektionen i tid.
+
+
+
+### What is my contribution towards the team’s application of scrum?
+
+Har deltagit på samtliga scrums och arbetat mot backlogen där våra olika tasks finns. Vidare har jag även vart delaktig i de möten som vi har haft med end user och product ownner
+
+### What is my contribution towards the team’s deliveries?
+
+Denna vecka har jag arbetat emot att ta fram nya "views" i appen och programmerat de funktioner som behövs där. Den viewn som har vart mest i fokus är den så kallade "ETA-viewn". Denna vecka har jag arbetat tillsammans med en annan gruppmeddlem att ta fram de olika "tids-formulären" som krävs för att skapa ett så kallat "ETA"
+
+
+**Total tid:** 12h
+
+**Spenderat på:** Handledning, grupp-möten och programmering utav appen
