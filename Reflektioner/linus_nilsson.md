@@ -74,3 +74,49 @@ Gruppmöten: 8 h
 Möte med end user: 1 h
 Självständigt arbete: 12 h
 total: 19h
+
+# Week 5
+
+### What do I want to learn or understand better?
+Burndown charten för den gångna sprinten blev inte av, då sprinten blev lite kortare än vad som tänkts. Konstigt nog var det ingen som hade i åtanke att sprinten skulle bli hälften så kort. Så målet kvarstår till nästa vecka att sätta upp den. 
+
+### How can I help someone else, or the entire team, to learn something new?
+Under föregående sprint ville jag skapa bättre förståele för react native, vilket jag också känner att jag gjort. Visserligen blev sprinten lite kortare än vanligt, men jag känner ändå att jag klivit över några trösklar jag fastnat vid, däribland implementering av knappar samt bokföring av react:s props. Under den kommande sprinten hoppas jag kunna vidareutveckla mina kunskaper inom det men också upprätthålla goda scrum-vanor. 
+
+
+### What is my contribution towards the team’s application of scrum?
+Jag har deltagit på alla moment och jobbat utifrån scrum-guiden. Estimaten jag själv tog fram hade inte med i beräkning att sprinten var kort, vilket ledde till att en del av arbetet lämnades ogjort. Men det har jag lärt mig nu. Nästa vecka 
+
+### What is my contribution towards the team’s deliveries?
+Jag har sett till att folk kommit på banan snabbt med react samt fokuserat på att ta fram MVP:s att presentera för produktägare. 
+
+### Time spent on course**
+Gruppmöten: 4h
+Självständigt arbete: 12h 
+totalt: 16h
+
+# Week 6
+
+### What do I want to learn or understand better?
+Sprinten har för egen del gått ut på att fixa lite småsaker samt hjälpa teamet med andra tasks, så det har inte direkt dykt upp något som jag velat lära mig bättre. Jag hade som mål att lära mig sätta upp burndown charts, och har påbörjat ett. Det finns tydligen ett plugin till trello som låter användaren skapa utifrån ett existerande scrum board, desvärre är ett krav att man loggat estimaten i själva plugin:et kontinuerligt. Så jag tror att jag får skapa ett från grunden, manuellt istället.
+
+
+### How can I help someone else, or the entire team, to learn something new?
+Jag hoppas kunna sprida lite JavaScript-kunskaper under kommande sprint, både för eget lärande men också för att utveckla andras förståelse för det.
+
+
+### What is my contribution towards the team’s application of scrum?
+Jag har deltagit på alla moment och jobbat utifrån scrum-guiden. Estimaten jag själv satte upp var återigen lite optimistiska, vilket kan ha lett till att vi inte hann med så mycket som jag hoppats på.
+
+
+### What is my contribution towards the team’s deliveries?
+Jag har försökt hjälpa andra med problem jag själv, tidigare stött på samt bidragit med att fixa ett antal buggar som existerade i appen. Under kommande sprint önskar jag fortsätta leverera bra funktionalitet till appen och hjälpa andra göra detsamma. Visserligen är det mycket kandidat under kommande vecka, men hoppas ändå kunna lägga ner lite tid på denna kursen.
+
+
+### Time spent on course**
+Gruppmöten: 6h
+Självständigt arbete: 10h 
+totalt: 16h
+
+
+4+3
