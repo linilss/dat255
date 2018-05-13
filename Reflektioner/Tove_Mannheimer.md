@@ -115,3 +115,28 @@ total: 12 h
 
 Please note this sprint was shorter due to holidays
 
+**Week 5**
+
+**What do I want to learn or understand better?**
+Just like last week we didn't manage to solve the entire task for the sprint and the work to develop a ETA-view will continue next sprint as well. Therefore my main focus for this sprint will be to try to estimate the tasks in a more accurate matter. I will do this by trying to define smaller tasks and add more time than previously thought. I want to continue to improve my skills in android studio and scrum methodology. This by being the scrum master and trying to apply scrum in the best sense possible. By being the scrum master I will participate in Scrum of Scrums and hopefully learn some tricks to share with my group.  Android studio, git and version control will be a natural part of the future work of the group, and my experience in these areas will continue to grow by coding.
+
+
+**How can I help someone else, or the entire team, to learn something new?**
+By continously coding in teams or pairs the work has been more collaborative. We learn from eachother and share experiences wich I find very positive. Each of the team members must understand the task to be able to work on it, wich has significantly improved our understanding. As my knowledge in version control and the structure of the code has incresed my abilities to help others have increased accordingly. Other than that I try to share information with the team in our slack chat and stay attentive to the discussion going on there. As the scrum master I share the relevant information from the scrum of scrum meetings in order to keep my team informed.   
+
+**What is my contribution towards the team’s application of scrum?**
+Just like last sprint I have participated in all the daily scrum meetings of the sprint. I have also continuosly worked according to the team developed "scrum-guide" for the trello board in order to stay true to the scrum methodology. The guide enables a standardised way of writing user stories and tasks for the sprint backlog, to make the team work easier. Other than that the group performed a review with the team to summarise the sprint. A short retrospective was also held with both the prduct owner and the end user. I took an active role in these meetings in order to identify what the actors desired and what they thought of the teams deliveries. I have been scrum master this sprint and participated in the scrum of scrums where I got to take part of other groups experiences and share them with my team. 
+
+
+**What is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).**
+My learning objectives for the sprint was once again to understand the existing code better and to be able to make the changes we aspired to do. I achieved this by working with Gustav, and the rest of the team on understanding the code. Karin and I managed to add a feature that selects all the states related to Traffic_area, which was useful in the ETA view. The view is now nearly finished and my understanding of the code structure has significantly increased.
+
+**Time spent on course**
+lectures: 0 h
+group meetings: 8 h
+meeting end user: 1 h
+Changing code in atom: 15 h
+total: 24 h 
+
+
+
