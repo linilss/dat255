@@ -64,3 +64,92 @@ I´ve been away during some days and therefore dificult to participate in daily 
 I have the develop environment working and cloned the repo to Android studios. I have learned more about android studios and to work in git. It takes practice but I feel that I´m making progress and gaining more experience in what I´m doing. 
 
 Time spent on course **Time spent:** Lectures & exercises: 4h, tutorials: 1h , group meetings 4h **Total: 9h**
+
+## Vecka 4
+
+**What do I want to learn or understand better?** 
+
+Jag vill lära mig mer om hur applikationen är uppbyggd och vilka funktioner som är relevanta till projektet. 
+
+**How can I help someone else, or the entire team, to learn something new?**
+
+Jag kan hjäpa till I projektet genom att deltaga, bolla idér hur applikationen och funktionerna ska byggas upp. Även hjälpa till vid problemlösning av eventuella problem med applikation eller utvecklingsmiljö. 
+
+**What is my contribution towards the team’s application of scrum?**
+
+Jag har deltagit på daily scrum, varit aktiv på vår scrumboard och deltagit I möten med product owner. Det känns som vi alla vill tillämpa scrum så gruppen arbetar flitigt med de nyvunna verktyget. 
+
+**What is my contribution towards the team’s deliveries?**
+
+Jag har dessvärre inte kunnat deltaga lika mycket som jag ösnkat under denna sprit men har jobbat med att scrumboarden, bekantat mig med applikation I dess uppbyggnad samt struktur. Jag önskar bli mer självständig och få mer erfarenhet i git, och att programmera i android studios. För att uppnå detta måste jag planera in mer tid och öva mer för att kunna uppnå och lära mig dess funktioner. 
+
+Time spent on course **Time spent:** Teamwork: 3h, Group meetings 2h Ownwork 3**Total: 8h**
+
+
+## Vecka 5
+
+**What do I want to learn or understand better?** 
+
+Jag har försökt jobba med mina mål att lära mig mer om applikationens uppbyggnad och att skapa mig mer erfarenhet. Denna sprint vill jag fortfarande lära mig mer om applikationen och fortsätta öva och skapa mer erfarenhet. 
+
+**How can I help someone else, or the entire team, to learn something new?**
+
+Jag kan hjälpa till I design och problemlösning av olika tasks. Vi arbetar mycket uppdelat och har fördelat ut alla våra tasks för sprinten. Jag kan bidra genom att vara med och arbeta på de kort som jag står på och deltaga i övriga möten med gruppen eller produktägare. 
+
+**What is my contribution towards the team’s application of scrum?**
+
+Jag har deltagit I möten men missat några tillfällen av daily scrum. Jag vill fortfarande lära mig mer om scrum då jag finner verktyget intressant användbart och effektivt! 
+
+**What is my contribution towards the team’s deliveries?**
+
+Jag har jobbat med mitt mål att lära mig mer och skapa mer erfarenhet, jag har I den mån jag klarat av jobbat med det genom att arbeta med de tasks jag varit på. Denna sprint har varit mycket hektisk för mig och jag har tyvärr missat en del daily scrum meetings. Jag har därför jobbat i grupp och inte haft något eget kort. Mål nästa vecka är att fortsätta öva och få mer förståelse för hur applikationen fungerar. 
+
+Denna sprint har varit kortare på grund utav Valborg
+
+Time spent on course **Time spent:** Teamwork: 2h, Group meetings 2h Ownwork 1**Total: 5h**
+
+
+
+
+## Vecka 6
+
+**What do I want to learn or understand better?** 
+
+Under denna sprint har jag lärt mig mycket om hur applikationen fungerar och hur allt hänger ihop. Vi har arbetat med att utveckla en ny vy. Haft kommunikation med end user och product owner. Jag vill fortfarande lära mig mer om applikationen och android studios. Detta ska uppnås genom att fortsätta arbeta framåt. 
+
+**How can I help someone else, or the entire team, to learn something new?**
+
+Jag kan hjälpa till I gruppen genom att arbeta tillsammans med de tasks som jag arbetar med samt vid problemlösning när hinder eller error uppstår. 
+
+**What is my contribution towards the team’s application of scrum?**
+
+Jag har deltagit I daily scrum. Jag har varit aktiv på scrumboard och avslutat de kort jag varit på under sprinten. 
+
+**What is my contribution towards the team’s deliveries?**
+
+Jag önskade lära mig mer om hur applikationen fungerar och känner att jag når framsteg efter varje vecka. Genom att hjälpas åt arbeta och lösa problem har jag fått bättre förståelse för hur det fungerar. Jag kommer ha samma mål tills jag känner att jag har nya saker jag skulle vilja utveckla. Just nu känner jag att utveckling av applikation och utövande av scrummetoden är tillräckligt och intressanta mål. För att uppnå dessa kommer jag fortsätta arbeta diskutera och problemlösa i de uppgifter jag tar mig an. 
+
+Time spent on course **Time spent:** Teamwork: 4h, Group meetings 4h Ownwork 3**Total: 11h**
+
+
+## Vecka 7
+
+**What do I want to learn or understand better?** 
+
+Under veckans sprint har 
+
+**How can I help someone else, or the entire team, to learn something new?**
+
+
+
+**What is my contribution towards the team’s application of scrum?**
+
+
+
+**What is my contribution towards the team’s deliveries?**
+
+
+
+Time spent on course **Time spent:** Teamwork: 2h, Group meetings 2h Ownwork 1**Total: 5h**
+
+
