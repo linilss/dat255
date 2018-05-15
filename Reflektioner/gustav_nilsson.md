@@ -107,3 +107,55 @@ Sunday:
 	10-12, Working on Task K1 = 2 hours
 Monday:
     13-16, Working on Task K1 = 3 hours
+    
+## Week 5
+### What do I want to learn or understand better?
+As I said earlier, React Native can be a bit difficult to understand. However, even after reading about it, and getting a better understanding about it in general, I still don't really understand the flow of THIS app. So my focus will be to dwelve into the structure of this app. My idea is to take a long talk with the developer of the app and try to get some kind of summary, explanation to how it works. Then I can hopefully share any insights I might have gotten.
+
+### How can I help someone else, or the entire team, to learn something new?
+I think understanding the app better really can benefit everyone. As stated earlier, I will try to have a conversation with the developer to gain some insight into everything. Having this information allows me to help the others when they have questions reagrding how different things work in the current app.
+
+### What is my contribution towards the team’s application of scrum?
+I participated in the weekly scrum, and I have used the trello board set up to see how everything is going, and knowing what I should be working on. Since I had no task currently assigned (I completed the job I signed up for last week), I joined forces with two others in the group for a rather large card.
+
+### What is my contribution towards the team’s deliveries?
+My goal was to finish task K7 (me and my group), which turned out to be easier said than done. The code-base is still pretty cryptic to me, and I am having a hard time grasping how to transform the current timeline (which is relatively close to what we are looking for) to the ETA view that is needed. That is why I will try to get a better understanding of the app, this week. The task was not completed this week, so we will continue on it next sprint and hopefully succeed then.
+
+**My total time spent was 11 hours**  
+Thursday
+    19-20, Reflection + Planning = 1 hour
+Friday
+    13-16, Working on Task K7 = 3 hours
+Sunday
+    14-15, Working on Task K7 = 1 hours
+Tuesday
+    13-17, Read about react native  = 4h
+Wednesday
+    15-17, Möte scrum= 2h
+    
+## Week 6
+### What do I want to learn or understand better?
+I think my biggest lacking understand currently is in the world of boating in general. I need to read up on how all the different parts interact, and also read up on some of the terms I don't really understand. This will make it much easier for me to really reason about what is being done than it currently is.
+
+### How can I help someone else, or the entire team, to learn something new?
+Like planned last week, I had a pretty long talk with one of the developers of the app (Johan), where he showed me some things about the structure and the app in general I had not understood. It was very enlightening, although a lot of information came very fast making it hard to pick up everything. Whever someone has questions about actions, props or some of the other concepts I learned about, I will hopefully be able to help them, explaining the concept to them. I think this will be helpful to everyone developing the app as I believe everyone still feels a bit lost in how things are working.
+
+### What is my contribution towards the team’s application of scrum?
+I attended the Scrum-meetings and took part in writing the group reflection. The estimates that I was part of setting up for the particular task I was working on turned out to be quite a bit optimistic this time as well, taking more time than planned. However, most of it was completed at least, compared to last week where we got somewhat stuck and completed very little (in Task K7 that is).
+
+### What is my contribution towards the team’s deliveries?
+I had a discussion with the group of how the ETA-view really should look, and we created a sketch displaying the different elements and functionality needed. This made working on it much easier. Now task K7, which was not finished last week, has been practically finished! I sat several hours and worked hard at the list portion of it, and now the ETA-view seems to display the relevant ETAs with easy to read time information (it has not been reviewed yet). However, the "information boxes" that was figured out was needed during the brainstorming session at the top has are not displaying the right info yet.
+
+**My total time spent was 15 hours**  
+Thursday
+    19-20,  Reflection+Planning = 1 h
+Friday
+    13-15, Working on Task K7 = 2h
+Saturday
+    9-11, Studying app code = 2h
+Tuesday
+    8-15, Jobba på K7 = 7h
+Wednesday
+    13-16, Möte + scrum = 3h
+
+
