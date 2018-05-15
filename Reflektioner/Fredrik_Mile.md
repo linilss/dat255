@@ -84,6 +84,25 @@ During this sprint I have taken back a feature that we removed during previous s
 **Time spent:** Tutorial: 2 , Recovery removed feature:  3 , group meetings 4h ,discussions and helping: 2h 
 **Total: 11h**
 
+## Week 6
+### What do I want to learn or understand better?
+
+This sprint was better planned than the last one, we managed to almost empty the sprint backlog. I think that me and the group has learned how to plan better which was the skill that I wanted to improve to this sprint. I still feel like I lack some knowledge in react native, during the upcoming sprint I will try to learn more about the basics by continue to write code, check tutorials and ask my team members.  
+### How can I help someone else, or the entire team, to learn something new?
+
+I really like to discuss different ways to find and reach a solution, by inviting to discussions I feel that I can help my team to reach our common goals. I have experience in programming in general and if someone needs help to solve a programming-oriented issue I'm going to try my best to help them out. 
+
+### What is my contribution towards the team’s application of scrum?
+I have participated in all Scrum meetings and daily scrums. I was active while discussing the upcoming sprints userstories/tasks and I came with input to the teams reflection. I have been the contact person between us in the group and the end user. I have come up with ideas and reflections with the end-user so that we in the team has gotten a clear idea about what to do. (Almost same as last week) 
+
+### What is my contribution towards the team’s deliveries?
+
+During this sprint I have done a lot of reviews of different tasks. I tried to implement an "out of app" notification, the estimated time for that task was 4 hours and when 4 hours had passed I came to the conclusion that it was not worth the time. The "out of app" notification was more complicated that I thought, you had to take into account if the app was running on an Andriod or an Iphone. The amount of time it would take was not worth the "functionality" the notification would contribute with. 
+
+**Time spent:** Research: 2 , "Out of app" notifcation:  5 , group meetings 5h , discussions and helping: 3h 
+**Total: 15h**
+
+
 
 
 
