@@ -160,3 +160,32 @@ Denna vecka har jag arbetat emot att ta fram nya "views" i appen och programmera
 **Total tid:** 12h
 
 **Spenderat på:** Handledning, grupp-möten och programmering utav appen
+
+## Week 7
+
+### What do I want to learn or understand better?
+
+Trots att projektet börjar gå mot sitt slutskede så vill jag precis som förra veckan fortsätta utveckla mina kunskaper om Javascript, React native för att kunna bygga  denna app och även framtida så bra som möjligt. För att göra detta ska jag ta hjälp av de andra gruppmedlemmarna och diverse hjälpmedel som finns online.
+
+Jag har vidare denna vecka börjat skriva slutreflektionen för detta projekt och ville lära mig mer om hur den skall vara utformad, tog därmed kontakt med Burden för att säkerställa vad som ska vara med.
+
+
+
+### How can I help someone else, or the entire team, to learn something new?
+
+Nu har jag börjat lära mig lite lätt Javascript och känner att jag kan hjälpa till de som behöver hjälp.Har även samlat på mig information om hur slutreflektionen samt presentationen ska gå till så kan hjälpa gruppen genom att vidarebefodra denna information.
+
+
+
+### What is my contribution towards the team’s application of scrum?
+
+Har deltagit på samtliga scrums och arbetat mot backlogen där våra olika tasks finns. Vidare har jag även vart delaktig i de möten som vi har haft med product ownners. Har även förslagigt nya tasks som invovlverar det sista som behövs för att lämna över vårt repo till Burden.
+
+### What is my contribution towards the team’s deliveries?
+
+Som tidigare nämnt har jag denna vecka arbetat med slutreflektionen, detta har jag gjort i sharelatex där jag även har bjudit in samtliga gruppmedlemmar och gett dem redigeringsrättigheter.
+
+
+**Total tid:** 12h
+
+**Spenderat på:** Handledning, grupp-möten och programmering utav appen
