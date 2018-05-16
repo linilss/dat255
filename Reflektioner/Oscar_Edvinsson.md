@@ -13,3 +13,4 @@ I nuläget är planen att sätta mig in i hur det fungerar att arbeta med scrum,
 **Föreläsningar:**08h 45m
 **Grupparbete:**  02h
 **Totalt:**       10h 45m 
+
