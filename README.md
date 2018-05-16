@@ -1,13 +1,16 @@
-## DAT255 grupp ABC
+# DAT255 grupp 
 
-### För att läsa reflektioner - gå till mappen reflektioner
+## Navigering i repot
 
-### För att få hjälp med git - gå till mappen git-help-pls
+### För att läsa reflektioner - gå till mappen Reflektioner
+
+### För hjälp med git - gå till mappen git-help-pls
 
 ### Själva appen ligger i ett annat repo: https://github.com/linilss/portablecdm
 
+### För att läsa om tester utförda för appen - gå till mappen Tester
 
-### Scrum-guide
+### Scrum-guide:
 
 Vi beräknar 15 h arbete per person per vecka. Detta ger en velocity på 135 h/w.
 Tasksen kommer sedan att bedömas efter tidsåtgång och spintbacklogen planeras efter detta.
