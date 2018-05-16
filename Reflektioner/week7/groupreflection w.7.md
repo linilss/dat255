@@ -43,7 +43,30 @@ Nästa sprint ska en ny logg-vy skapas vilket gör att vi behöver strukturera u
 ### Your user stories
 *(in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation*)
 
-BLABLA
+K7 blev fortfarande inte helt klar då problem hittades. Vi har insett att den var alldeles för stor och inte korrekt uppdelad i små tasks. Istället avsåg den att göra i princip en hel vy i en enda task. För att åtgärda detta så ansågs K7 som avslutad, och det kvarvarande arbetet delades upp i nya tasks. Då det enda som saknades var att visa korrekt information i två informationsrutor kvar, skapades enbart två nya tasks K19 och K20, en för varje informationsruta.
+
+Sprintens user stories:
+“Som Kapten vill jag kunna se ETAs vid varje tidsintervall, för att få en överblick över legget. “
+Acceptanskriteria: En vy där relevanta ETAs visas i tidsordning
+Tasks med tidsestimat i timmar: 
+	K7 - Timeline-vy för ETA-skärm - (8+12)
+K19 - Nedräkning med notifikation - (4)
+
+“Som ett fartyg behöver jag meddela agenten om en ETA, för att agenten skall kunna förbereda ankomsten så bra som möjligt.”
+Acceptanskriteria: En vy där kaptenen kan fylla i ETA vid varje givet tidsintervall. 
+Tasks med tidsestimat i timmar: 
+	K7 - Timeline-vy för ETA-skärm (8+12) 
+
+“Som kapten vill jag kunna se relevant data för att kunna föra in till extern loggbok. Relevant data avser Actuals states.”
+[Denna kom till denna vecka efter att ha pratat med product owner och end user]
+Acceptanskriteria: Det ska finnas en loggbok som visar den relevanta datan,
+Tasks med tidsestimat i timmar: 
+	K17 - Lägga till timeline log view (2)
+	K18 - Sortera ut endast actuals från timelinen (2)
+
+Utöver users stories hade vi en task som relaterar till appens helhet och användarvänlighet.
+	K21 - Ikoner och ordning i side menu (2)
+
 
 ### The three KPIs you use for monitoring your progress
 
