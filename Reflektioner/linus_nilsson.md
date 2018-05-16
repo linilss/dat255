@@ -119,4 +119,26 @@ Självständigt arbete: 10h
 totalt: 16h
 
 
-4+3
+# Week 7
+
+### What do I want to learn or understand better?
+Har under sprinten påbörjat en burndown chart som är tänkt att finnas på repot vid slutfört projekt, som var målet under fg sprint. Vi har inte varit jätteflitiga med att estimera tasks utifrån vår velocity, vilket kan komma att spöka i en burndown chart. 
+
+
+
+### How can I help someone else, or the entire team, to learn something new?
+Målet under gångna sprinten var att vidare sprida js-kunskaper, vilket jag tror jag gjort bra. Jag inte självständigt slutfört någonting, utan försökt antingen förklara vad jag hållt på med eller låtit någon annan formulera det jag tänker i kod. Samma mål kvarstår under nästa sprint, dessutom vill jag hjälpa gruppen att sätta upp en burndown chart och use cases för applikationen inför presentation. 
+
+
+### What is my contribution towards the team’s application of scrum?
+Dessvärre missade jag en av tillfällena vi arbetade, så jag deltog ej på ett gruppmoment. I stället jobbade jag ikapp dagen efter, visserligen utan ett daily scrum-möte.
+
+
+### What is my contribution towards the team’s deliveries?
+Under gångna veckan har jag tillsammans med andra satt upp en "Actuals View" och en "Estimated Time of Arrival"-vy och justerat designen en aning. Under kommande sprint hoppas jag kunna bidra med små buggfixar inför release samt bidra till uppsatta mål inför slutet av kursen.
+
+### Time spent on course**
+Gruppmöten: 6h
+Självständigt arbete: 9h 
+totalt: 15h
+
