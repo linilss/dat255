@@ -132,24 +132,27 @@ Jag önskade lära mig mer om hur applikationen fungerar och känner att jag nå
 Time spent on course **Time spent:** Teamwork: 4h, Group meetings 4h Ownwork 3**Total: 11h**
 
 
+
+
+## Vecka 7
+
 ## Vecka 7
 
 **What do I want to learn or understand better?** 
 
-Under veckans sprint har 
+Under veckans sprint har jag jobbat med en ny vy för kaptenen att se sina actual states. Jag har lärt mig mer om hur applikationen är uppbyggd samt sammansättning av funktioner. Vi har även haft kontakt med product owner. Jag vill lära mig mer om applikationen samt öva och få mer kunskap om programmering. Detta skall uppnås genom att fortsätta arbetet. Under sprinten har jag även kommit i kontakt med ett nytt textredigeringsverktyg, Latex som jag endast tidigare har hört talas om men inte praktiserat. Jag är intresserad av att lära mig hur verktyget fungerar.
 
 **How can I help someone else, or the entire team, to learn something new?**
 
-
+Jag kan hjälpa de andra i gruppen genom att delta i arbetet på uppgifterna samt vid problemlösningshinder. 
 
 **What is my contribution towards the team’s application of scrum?**
 
-
+Jag har deltagit i daily scrums och samtliga möten. Varit aktiv på scrumboarden och avslutat de kort jag har skrivit upp mig på. 
 
 **What is my contribution towards the team’s deliveries?**
 
+Jag önskade lära mig mer om applikationen och dess funktioner. Jag märker av framsteg efter varje vecka, mycket genom att jag lär mig mycket från andra gruppmedlemmar men även genom eget lärande. Jag kommer ha samma mål som tidigare men även lära mig de nya redigeringsverktyget Latex. För att uppnå målen ska jag fortsätta arbeta och lära mig Latex genom att vara med och skriva den slutgiltiga rapporten.
 
-
-Time spent on course **Time spent:** Teamwork: 2h, Group meetings 2h Ownwork 1**Total: 5h**
-
+Time spent on course **Time spent:** Teamwork: 5h, Group meetings 6h Ownwork 1**Total: 12h**
 

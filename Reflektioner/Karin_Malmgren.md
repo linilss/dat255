@@ -139,6 +139,27 @@ Målet för denna sprint var att utveckla en tidslinje för ETA-vyn efter önske
 **Teamwork and groupmeetings**: 6h 
 **Own work**: 9h
 
+## Vecka 7
+
+**What do I want to learn or understand better?**
+
+Jag har under veckan lärt mig att sortera ut precis den informationen jag vill åt i states. Genom att använda console.log() och parprogrammering har jag fått bättre förståelse för kodens uppbyggnad och hur den relaterar till den information vi behövt för våra features. Vi insåg att vi inte behövde använda något ytterligare paket men i min research lärde jag mig mer om hur vissa nedräknings-och notisfunktioner kunde användaas. Under nästa sprint måste säcken börja knytas ihop och fokus från min sida kommer därför ligga på att lära mig mer om buggar och buggfix samt att få bättre kunskap om vilka layoutmässiga förändringar som ger störst värde till produktägarna och slutanvändare. Vägen dit går via gruppen, kommunikation med de inblandade parterna och codacy.
+
+**How can I help someone else, or the entire team, to learn something new?**
+
+Denna sprint gjorde jag task K19 tillsammans med Linus. Branschen relaterar till denna veckas task K20 vilket gör att jag besitter kunskap om hur vi kan gå tillväga. Därav kan jag hjälpa gruppen att implementera den funktionalitet som behövs. 
+Vi kommer även börja utvärdera kursen i sin helhet och jag planerar att bidra med mina tankar och upplevelse och även genom att skapa tydliga bilder och diagram över den utveckling som skett.  
+ 
+**What is my contribution towards the team’s application of scrum?**
+
+Denna vecka har scrummandet fungerat lite sisådär i gruppen. Många har haft fullt upp med kandidat och i och med att denna sprint var två dagar kortare än normalt förlorade vi lite av den kontinuerliga kommunikationen och mötena. Trots det har vi genomfört alla moment, men det har känts lite mer hastat än vanligt vilket även har märkts i arbetet. Jag har deltagit aktivt men har högre ambitioner för nästkommande sprint. 
+
+**What is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).**
+  
+Mitt mål för nästa vecka uppnåddes men ledde till att vi valde av inte ha ett eget paket för nedräknare och notifikation i appen. Nedräkningen sker istället utifrån timestamp på rapporterade ETA och den aktuella tiden vilket blev betydligt smidigare och även mer i linje med hur appen ser ut i övrigt. Därmed har ändå värde kunnat skapas för kaptenen. Då jag visste att denna sprint var kortare än normalt tog jag på mig arbete anpassat till tiden. Jag lärde mig under sprinten som pågick under valborg att anpassning krävs eftersom tasks då blev liggande i sprint backloggen. Mitt mål denna vecka är att lära mig om bugghantering för att i slutet av sprinten kunna presentera en app som jag, gruppen och produktägarna kan vara nöjd med och som fungerar som tänkt. För att uppnå detta ska jag ta hjälp av gruppmedlemmar som har tidigare erfarenhet av bugghantering, youtube-klipp samt codacy. 
+
+**Teamwork and groupmeetings**: 8h 
+**Own work**: 5h
 
 
 
