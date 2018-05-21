@@ -1,5 +1,6 @@
-### For weekly reflections, see one of the WX folders (X for sprint number)
+### För att läsa veckoliga reflektioner - gå till en av WX-mapparna (där X betecknar sprintnumret)
 
-### For Individual reflections, see 'Individual reflections'
+### För att läsa individuella reflektioner - gå till 'Individual reflections'
 
-### For reflection templates, see Templates
+### För reflektionsmallar - gå till Templates
+
