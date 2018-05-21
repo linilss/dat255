@@ -158,4 +158,31 @@ Tuesday
 Wednesday
     13-16, Möte + scrum = 3h
 
+    
+## Week 7
+### What do I want to learn or understand better?
+Since I have had troubles with the development again, I would like to understand Expo better. What is actually happening and why when things are not connecting or loading. The documentation is not great, but I do hope that a greater understanding can be reached, and also to avoid a lot of the troubles that we often have.
 
+### How can I help someone else, or the entire team, to learn something new?
+Everyone has trouble with the development environment from time to time, so any gained knowledge in how things are working will be of benefit to everyone.
+
+### What is my contribution towards the team’s application of scrum?
+In the weekly scrum-meeting I took the initiative to split up the rest of the work of K7 into two new cards. The task had been too large from the beginning, making an entire view as a single task. Now each of the two boxes left in the view is its own card, which I and two more group members took on to do this sprint.
+
+### What is my contribution towards the team’s deliveries?
+When Task K7 was reviewed, I got feedback that a plus buttom was missing. So with some trouble I added one (however not in the optimal location as I failed to do so), completing K7.
+I had troubles with my development environment again. It stopped working and I could not get it to work. This led to me having to sit next to someone in my group doing the programming, which worked well but prohibited me from working at home or outside of my group. Eventually, the day before the ending of the sprint I got it working again. However, not being able to work alone, plus the pressure of finishing the bachelor thesis report this week lead me and my group into not completing both of the assigned cards. 
+
+Note: This week was the deadline for the bachelor thesis and therefor less time than usual was spent (which was also accepted by the group beforehand).
+
+**My total time spent was 11 hours**
+Thurday
+    13-14, Trouble with app = 1h
+Saturday
+    12-13, Reflection + Planning = 1h
+Sunday
+    18-20, Trouble with app = 2h
+Tuesday
+    8-12, Working on Tasks = 4h
+Wednesday
+    13-16, Möte + Scrum = 3h

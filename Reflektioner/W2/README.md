@@ -1,5 +1,6 @@
 ## Group Reflection - Week 2
 
+
 ### The chosen scope of the application 
 *(under development including priority of features and for whom you are creating value)*
 Gruppen har tilldelats Vessel som produktägare och kommer rikta appens funktionalitet mot detta. Möte kommer att bestämmas med produktägaren vecka 15 för att gemensamt komma överens om appens scope.  
