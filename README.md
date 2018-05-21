@@ -10,7 +10,7 @@
 
 ### Länk till Trello: https://trello.com/invite/b/1w2AGqkd/6a479f7a49b60870a7e3cf5aedd42324/scrumboard
 
-
+### För att se bilder över applikationen utan att själv köra den - gå till Screenshots
 
 ### För hjälp med git - gå till mappen git-help-pls
 
