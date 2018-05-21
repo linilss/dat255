@@ -1,8 +1,8 @@
-## App_Skelett.jpg: 
-### First preliminary draft of the application, drawn one of the first days of the project.
+### App_Skelett.jpg: 
+#### Första preliminära utkastet av applikation, tecknad under de första dagarna av projektet
 
-## PrioStates.txt
-### States that could be used as default favorite states for a Vessel application
+### PrioStates.txt
+#### States som kan användas som favoritstates för en Vessel-applikation
 
-## usecases.md
-### Use cases for the application
+### usecases.md
+#### Use cases för applikationen
