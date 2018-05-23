@@ -7,7 +7,7 @@ Vi bokar gemensamt in möten och det är viktigt att komma i tid till dessa. Fas
 
 Varje dag vi arbetar ihop ska daily scrum genomföras under 15 minuter. Om samtliga inte kan närvara görs daily scrum via slack-kanalen. 
 
-Alla i gruppen är villiga att lägga ned den tid på kursen som krävs och siktar på att prestera efter bästa förmåga. Det viktigaste är ett bra och fungerande resultat, men för att konkretisera så ligger ambitionsnivån på en 4:a. Prestationsmålet kommer omvärderas efter halvtid för att bedöma hur vi ligger till och rimligheten. 
+Alla i gruppen är villiga att lägga ned den tid på kursen som krävs och siktar på att prestera efter bästa förmåga. Det viktigaste är ett bra och fungerande resultat.
 
 Skulle problem uppstå med utebliven närvaro ska det först kommuniceras inom gruppen för att förstå orsaken, går det av någon anledning inte att lösa kontaktas handledare. Problem med närvaro definieras som att man vid upprepade tillfällen är frånvarande. Engångsföreteelser kan lösas med fika. 
 
