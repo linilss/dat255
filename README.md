@@ -10,7 +10,9 @@
 
 #### Länk till Trello: https://trello.com/invite/b/1w2AGqkd/6a479f7a49b60870a7e3cf5aedd42324/scrumboard
 
-#### För att se bilder över applikationen utan att själv köra den - gå till 
+#### För att se bilder över applikationen utan att själv köra den - gå till screenshots
+
+#### För att se skisser på nya funktioner i appen, de states som är viktiga för kaptenen samt use uses - gå till Documents 
 
 #### För hjälp med git - gå till mappen git-help-pls
 
@@ -28,7 +30,7 @@ Samtlig information som behövs för att arbeta med en task skall finnas tillgä
 
 - vad uppgiften innebär
 - hur det skall dokumenteras
-- var dokumnetationen återfinns
+- var dokumentationen återfinns
 
 Detta för att underlätta kommunikation och självständigt arbete.
 
