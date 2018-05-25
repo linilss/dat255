@@ -4,3 +4,5 @@
 
 ### För reflektionsmallar - gå till Templates
 
+### För att läsa slutreflektionen - gå till mappen för W8
+
