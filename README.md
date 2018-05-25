@@ -4,8 +4,6 @@
 
 #### Själva appen ligger i ett annat repo: https://github.com/linilss/portablecdm
 
-#### För att läsa om tester utförda för appen - gå till mappen Tester
-
 #### För att läsa reflektioner - gå till mappen Reflektioner
 
 #### Länk till Trello: https://trello.com/invite/b/1w2AGqkd/6a479f7a49b60870a7e3cf5aedd42324/scrumboard
