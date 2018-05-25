@@ -15,7 +15,7 @@
 #### För hjälp med git - gå till mappen git-help-pls
 
 #### För att se kodkvalitet användes två verktyg Codacy och Deepscan.
-Länk till Deepscan: [![DeepScan grade](https://deepscan.io/api/projects/2426/branches/15194/badge/grade.svg)](https://deepscan.io/dashboard#view=project&pid=2426&bid=15194)
+Länk till Deepscan: [![DeepScan grade](https://deepscan.io/api/projects/2426/branches/15186/badge/grade.svg)](https://deepscan.io/dashboard#view=project&pid=2426&bid=15186)
 Länk till Codacy: [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f4a783fcd7824415a8d762828f0e0b09)](https://www.codacy.com/app/xannik/portablecdm?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=linilss/portablecdm&amp;utm_campaign=Badge_Grade)
 
 
