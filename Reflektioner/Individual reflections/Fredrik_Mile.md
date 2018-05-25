@@ -102,6 +102,25 @@ During this sprint I have done a lot of reviews of different tasks. I tried to i
 **Time spent:** Research: 2 , "Out of app" notifcation:  5 , group meetings 5h , discussions and helping: 3h 
 **Total: 15h**
 
+## Week 7
+### What do I want to learn or understand better?
+I did not spend as much time on this sprint compared to the ones before since during this sprint we had to turn in our bachelor thesis. 
+This upcoming sprint will be the last one, I think that while writing the end reflection, I will clearly see what I've learned during this course and what I will take with me to projects in the future. I still feel like I havent learned as much JS/React as I wanted so if I find time I will continue to learn more about it. 
+
+### How can I help someone else, or the entire team, to learn something new?
+
+I really like to discuss different ways to find and reach a solution, by inviting to discussions I feel that I can help my team to reach our common goals. I have experience in programming in general and if someone needs help to solve a programming-oriented issue I'm going to try my best to help them out. Since we are writing our end reflection now I will take part in our common reflection and be as involed as possible. 
+
+### What is my contribution towards the team’s application of scrum?
+I have participated in all Scrum meetings and daily scrums even though the deadline of the Bachlor theises. I was active while discussing the upcoming sprints userstories/tasks and I came with input to the teams reflection. I have been the contact person between us in the group and the end user. I have come up with ideas and reflections with the end-user so that we in the team has gotten a clear idea about what to do. (Almost same as last week) 
+
+### What is my contribution towards the team’s deliveries?
+
+And again, the baclor thesis took the main focus this sprint so I have not delieverd much more than reading last years scenario and trying to identify problems that we could encounter with our modified version of the app. I did not find any problems and I think that our version will do good! 
+
+**Time spent:** Research: 2 , Work with last scenario  4 , group meetings 5h , discussions and helping: 1h 
+**Total: 12h**
+
 
 
 
