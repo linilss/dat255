@@ -20,7 +20,7 @@ Då jag har bra kunskaper inom programmering kommer jag utveckla kodlösningar o
 
 Vi vet fortfarande inte vad vi ska göra för projekt men vi gick igenom SCRUM och vad det innebär. Jag har gått med i en grupp och vi har skapat ett social contract och bestämt vilken platform för git vi ska använda och vilket chattsytem. Gitrepot är uppe och det som återstår är att se vad vi ska göra. Mitt mål för denna vecka är att läsa mer om agil utveckling och SCRUM.
 
-totalt nerlaggd tid 10 tim
+totalt nedlagd tid 10 tim
 
 ## Week 2
 ### What do I want to learn or understand better?
@@ -38,7 +38,7 @@ Eftersom jag jobbat/jobbar som terminalarbetare i hamnen, har jag kunnat bidra m
 
 Förra veckan skrev jag att jag ville lära mig mer om scrum, Detta har jag åstadkommit gruppen har kommit igång mer och mer med just scrum. Jag ska dock fortsätta att öva på att ange velocity tasks samt formulera sprints/user stories. Då vi fick uppgiften om vad vi skulle göra, denna veckan på onsdag, kommer vi/jag träna på just detta en hel del. Kommande vecka kommer jag att analysera koden som vi har fått i uppgift att utveckla, samt api't och mer androidutveckling.
 
-totalt nerlaggd tid 13 tim
+totalt nedlagd tid 13 tim
 
 ## Week 3
 ### What do I want to learn or understand better?
@@ -56,7 +56,7 @@ Försöka att hjälpa dom som fortfarande inte har kommit igång med utvecklings
 
 Jag har lyckats få igång utvecklingsmiljön och kan du kompilera source koden och logga in på appen via emulatorn. Tycker även att vi har kommit igång bra med sprints. Också, har vi fått prata med produktinnehavaren och fått idéer och tydligare riktlinjer på hur hen vill ha det. Antog lite för tidigt att vi skulle sitta i android. Därför blev tiden att läsa android tutorials lite fel. Får fortsätta med javascript istället samt träna mer på scrum detaljer så som velocity och user stories etc.
 
-totalt nerlaggd tid 20 tim
+totalt nedlagd tid 20 tim
 
 ## Week 4
 ### What do I want to learn or understand better?
@@ -73,7 +73,7 @@ Jag har suttit och parprogrammerat under denna vecka, då det oftast är lättar
 
 Jag har nu lärt mig hur man använder utvecklingsverktygen react-native, expo och gradle. inför nästa vecka vill jag lära mig hur man använder dom funktioner som react-native bidrar med, för att lättare kunna läsa appen och omkonstruera den utifrån våra behov. För att uppnå detta tänker jag fortsätta läsa på react-natives hemsida, samt titta på kodexempel och tutorials.
 
-totalt nerlaggd tid 15 tim
+totalt nedlagd tid 15 tim
 
 ## Week 5
 ### What do I want to learn or understand better?
@@ -93,7 +93,7 @@ Har fortsatt med reviews på tasks samt fixat buggar och tagit på mig och avkla
 
 Det återstår fortfarande del saker inom javascript och react-native som jag känner att jag behöver lära mig. Kommande vecka tänkter jag fortsätta med detta på samma sätt som veckan innan. Genom youtube och andra källor där det finns tutorials.
 
-totalt nerlaggd tid 10 tim
+totalt nedlagd tid 10 tim
 
 ## Week 6
 ### What do I want to learn or understand better?
@@ -113,7 +113,7 @@ Fortsätter som förra veckan med att reviewa och utföra tasks. Bidrar även me
 
 Behöver somsagt fortsätta med att lära mig react-native och javascript. Kommer göra detta på samma sätt som förra vecken, genom tutorials på nätet och youtube. Dock har jag tillräcklig kunskap för att utveckla i appen och utföra tasks, vilket också bidrar till mer kunskap. Plus att jag kommer att fotsätta utforska Codacy och utföra analyser på koden för att åstadkomma en stabil och säker kodkvalitet.
 
-totalt nerlaggd tid 15 tim
+totalt nedlagd tid 15 tim
 
 ## Week 7
 ### What do I want to learn or understand better?
@@ -133,4 +133,25 @@ Jag har tagit på mig att analysera koden och fixa eventuella buggar, redundans,
 
 Jag känner nu att jag har bättre förståelse för javascript och react-native som jag under förra veckan ville läsa mera av. Jag använde mig utav google för att få fram tutorials och guider. Letade också fram debugverktyg som jag har börjat använda för att analysera gruppens kod, då vi vill ha en bra kodkvailtet. Började med det även förra veckan använde mig utav internet för att förstå hur verktygen fungerar. Kommer att fortsätta att anlysera och fixa koden även kommande veckan. 
 
-totalt nerlaggd tid 15 tim
+totalt nedlagd tid 15 tim
+
+## Week 8
+### What do I want to learn or understand better?
+
+Den här veckan hade vi slutpresenation och demonstrering av vår applikation. Under detta projekt tycker jag att jag har fått god förståelse för agil utveckling. Det är svårt att vara en stor grupp men SCRUM underlättar processen väldigt mycket. Det jag känner att jag vill fortsätta lära mig är att skriva bättre user stories, samt estimera velocity för varje task. För att uppnå det behöver jag öva mer, och kommer att göra det genom att använda mig utav agila metoder i framtida projekt. Förutom SCRUM har jag också fått en bra förståelse för apputveckling, Javascript och react-native. Finns fortfarande delar som jag behöver öva mer på. Dock, känner jag att jag har en grundlig förståelse och för att fortsätta utvecklas inom react-native och javascript, kommer jag skapa egna project. Övning get färdighet.   
+
+### How can I help someone else, or the entire team, to learn something new?
+
+under projektet tog jag intiativet att läsa om dels props och states för att sedan förklara för gruppen. Dessutom applicerade jag två stycken debugverktyg på projektet som jag sedan förklarade för gruppen hur dom fungerade och vad som behöver ändras i koden.
+
+### What is my contribution towards the team’s application of scrum?
+
+Under projektet har jag tagit på mig en del tasks, men även suttit en del med parprogrammering för att hjälpa till med problem där mina gruppmedlemmar fastnade. Dessutom, har jag analyserat koden med hjälp av debugverktyg och fixat eventuella buggar och problem som hittades. Förutom det, har jag varit aktiv på möten genom att skriva tasks, user stories och gruppreflektion. Tog också på mig att konstruera UML-diagram över dom komponenter som vi skapade under projektet.
+
+### What is my contribution towards the team’s deliveries?
+*That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).*
+
+Under veckan har jag fortsatt med debugverktygen och fixat kodkvaliteten av gruppens kodkomponenter, och hjälpt till med slutreflektionen. Att läsa och titta på tutorials har fungerat bra för att få en grundlig förståelse över bland annat agil utveckling, javascript och react-native. Förutom tutorials tycker jag att det också behövs praktisk övning. Det är dock inte någon ny strategi från min sida. I fortsättningen kommer jag att fortsätta på samma sätt, men börja använda trello för att planera min tid bättre. Konceptet med sprints gör det lättare att hålla motivationen uppe, då man har en förbestämd deadline att jobba emot hela tiden.  
+
+totalt nedlagd tid 20 tim
+
