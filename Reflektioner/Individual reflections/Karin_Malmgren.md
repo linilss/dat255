@@ -161,11 +161,33 @@ Mitt mål för nästa vecka uppnåddes men ledde till att vi valde av inte ha et
 **Teamwork and groupmeetings**: 8h 
 **Own work**: 5h
 
+## Vecka 8
 
+**What do I want to learn or understand better?**
 
+Projektets sista sprint är nu avslutad och projektet har presenterats för många olika aktörer. Under veckan arbetade vi framförallt med finputs av applikationen, mindre buggfixar och från min sida lades fokus på presentationen och genomförandet av scenariot. Tillsammans med Tove utformade vi use cases som visade på den nya funktionaliteten vi skapat i appen, de kunde användas vid presentationen när vi demonstrerade appen för de olika intressenterna. 
 
+Presentationstillfället var väldigt lärorikt. Dels blev det lätt kaotiskt när scenariot skulle genomföras eftersom internetproblem och dålig kommunikation ställde till det. Det lärde mig mer om samordning och att det är bra att vara ute i god tid eftersom oförutsedda händelser kan göra att allt inte flyter på lika bra som det gjort tidigare. Jag tar också med mig att det är viktigt att hålla sig lugn i sådana stressade situationer och istället fokusera på att lösa problemen, kanske genom att bryta ned dem i mindre delar precis som vi gjort genom hela projektets gång, för att problemen ska kännas mer överkomliga. 
 
+En annan sak viktig sak inträffade under presentationen. När vi demonstrerade appen för en kapten fick vi inledningsvis mycket kritik och han menade att kaptenen aldrig skulle använda en app i sin dagliga verksamhet. Vi körde på och försökte förklara varför olika funktioner kunde underlätta arbetet för kaptenen. När vi visade loggboks-vyn svängde hans åsikter och han kunde se nyttan den skapade, men kanske framförallt potentialen i vad det skulle kunna innebära i framtiden. 
+
+Jag har lärt mig massor under projektets gång, och när jag tittar tillbaka på mina tidigare reflektioner blir utvecklingskurvan verkligen tydlig. Jag har lärt mig många nya verktyg, ett nytt arbetssätt och samtidigt har jag fått chansen att arbeta i en grupp som verkligen utmanat mig men där mycket kunskapsutbyte skett. Genom att kontinuerligt utvärdera har jag även förstått vilka delar som är viktigast att ta med sig och lära sig. Jag känner mig rustad att applicera mycket av mina nya kunskaper i framtida projekt. 
+
+**How can I help someone else, or the entire team, to learn something new?**
+
+Genom kursens gång har gruppen präglats av samarbete och utbyte av olika kunskaper. Det har gjort att jag är övertygad om att alla känt att de lärt sig nya saker av varandra. Denna sprint har jag bidragit med kunskap om att presentera och kommunicera värde till de aktörer som kom för att titta på vad vi åstadkommit. Vi har lärt varandra vilken tillgång det kan vara att besitta kunskap inom olika områden, det har därför varit lärorikt att arbeta med personer från olika utbildningar eftersom vi på så sätt kunnat komplettera varandra bra och förhoppningsvis levererat mer värde och mer utveckling än om vi varit en homogen grupp. Denna lärdom tar jag med mig till framtida projekt när grupper ska formas. 
  
+**What is my contribution towards the team’s application of scrum?**
 
+Efter förra veckans halvdana applikation av scrum har gruppen verkligen skärpt till sig. Vi kunde under sprintens gång lägga större fokus på arbetssättet och samtliga moment har genomförts med stort engagemang, trots att många har haft mycket att göra med kandidatarbetet. Kommunikationen har flytit på bra vilket gjort att vi i slutändan fick ihop en produkt vi alla var nöjda med och även fick bra feedback vid demonstrationen. Nu när sprinten är över har det blivit dags för att göra en reflektion över hela kursen för att få förståelse för hur den kan hjälpa oss i framtiden. Jag tycker scrum har varit ett väldigt hjälpsamt verktyg och användandet har gett mig bättre struktur i mitt arbetssätt vilket jag tror kommer generera nytta för mig även framöver.  
 
+**What is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week (e.g. describing the current situation).**
+  
+Mitt mål från föregående sprint var bland annat att lära mig mer om bugghantering, det har inte skett i så stor utsträckning under sprinten då andra i teamet påbörjade detta och vi kom fram till att jag skulle bidra med mer värde genom att fokusera på presentationen och kommunikation med intressenter. Mitt mer övergripande mål med att kunna presentera en app som jag, gruppen och produktägarna var nöjd med kände jag däremot har uppnåtts under sprinten. Självklart finns det förbättringspotential, men vi har gjort det vi planerat nästan varje sprint och kunnat producera den funktionalitet vi kommit överens om med produktägare och slutanvändare. Vi har även identifierat många möjligheter till förbättringar vilket förhoppningsvis kan arbetas vidare med i nya projekt som rör området. För att åstadkomma det har vi kommunicerat våra tankar till produktägarna. 
+
+Nu finns ingen mer sprint i detta projekt utan mitt mål blir istället satt till nya projekt. Målet blir att låta denna kurs följa med mig in i framtida projekt. Användandet av en scrumboard tycker jag varit väldigt smidigt, det har gjort det enklare att prioritera och uppskatta tidsåtgång samtidigt som alla uppgifter blivit tilräckligt små för att kännas genomförbara. Denna metodik har jag redan börjat använda i andra delar av mitt liv för att skapa en bättre struktur och överblick. Kursen har även väckt ett intresse för utveckling och jag tror jag kommer ha stor nytta av att kunna behärska versionshantering på ett bra sätt. Användandet av olika grenar gjorde samarbetet väldigt smidigt och minskade risken för konflikter vilket ofta varit problematiskt i tidigare projekt. 
+
+**Teamwork and groupmeetings**: 6h
+**Presentation**: 5h 
+**Own work and preperation**: 6h
 
