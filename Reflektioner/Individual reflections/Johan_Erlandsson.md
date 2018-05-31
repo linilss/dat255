@@ -189,3 +189,30 @@ Som tidigare nämnt har jag denna vecka arbetat med slutreflektionen, detta har 
 **Total tid:** 12h
 
 **Spenderat på:** Handledning, grupp-möten och programmering utav appen
+
+## Week 7
+
+### What do I want to learn or understand better?
+
+Det här har vart sista veckan i projektet, vi har arbetat med att färdigställa det sista, jobbat med reflektionen samt presenterat. Jag känner att jag har lärt mig mycket under kursen framför allt om agila verktyg för utvecklings-arbeten. Jag har även lärt mig mycket om att arbete i projekt med många medlemmar. Jag har även lärt mig om react native.
+
+Trots att jag har lärt mig mycket kan jag alltid lära mig mer. Känner att detta gäller inom alla tidigare nämnda områden. För att göra det så skall jag fortsätta utöva de agila metoderna samt applicera dem i alla möjliga projekt. Prövade faktiskt SCRUM i slutet av vårt kandidatarbete.
+
+
+
+### How can I help someone else, or the entire team, to learn something new?
+
+Jag kan hjälpa alla andra med den kunskapen jag har samlat på mig under kursens gång genom att tydligt instruera om vad de olika agila verktygen handlar om och hur de skall appliceras. Kan även hjälpa till med den kunskapen jag har samlat på mig om react native.
+
+
+### What is my contribution towards the team’s application of scrum?
+
+Har deltagit på samtliga scrums och arbetat mot backlogen där våra olika tasks finns. Vidare har jag även vart delaktig i slutpresentationen. Har även förslagigt nya tasks som invovlverar det sista som behövs för att lämna över vårt repo till Burden. Har vidare arbetat agilt med scrum.
+
+### What is my contribution towards the team’s deliveries?
+
+Som tidigare nämnt har jag denna vecka arbetat med slutreflektionen, slutpresentationen och  det sista med vår appmodifikation. 
+
+
+**Total tid:** 15h, lagt på presentation, slutreflektion och vår app
+
