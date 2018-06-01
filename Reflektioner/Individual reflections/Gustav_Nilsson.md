@@ -186,3 +186,28 @@ Tuesday
     8-12, Working on Tasks = 4h
 Wednesday
     13-16, Möte + Scrum = 3h
+    
+## Week 8
+### What do I want to learn or understand better?
+
+The last sprint has now been finished and I feel like we reached a good result in the end. I am pleased with how everything turned out, and I think this  was a very good introduction to Scrum.
+Overall, I think this course has been very educational in working with groups in a real software project. It was fun produce a final result together, and to show the app during the demonstration to different people. Several of them looked at what we had made and they gave some good feedback. It was also interesting to meet the captain who declared that no one would ever use an app for something like this, which clearly demonstrated the strong resistance that exists against digitalization. This is something that we who go to school at Chalmers seldom actually get to see in real life, but it is a very real problem and something one has to keep in mind when coming up with new solutions to old problems. 
+
+### How can I help someone else, or the entire team, to learn something new?
+
+I did my best during this project to read up on different things and tell other people about my findings when my knowledge could help. However, the knowledge could be shared even better by setting up some sort of system for collecting our knowledge in one place, where people could both read an contribute. As it was now, a lot of knowledge was kept personal even with the best of intentions, especially whenever an individual missed a meeting of any kind. Linus almost started this with his Git-guide, but it was unfortunately not expanded on further. I will try to remember this for future group projects.
+
+### What is my contribution towards the team’s application of scrum?
+
+To summarize, I have participated in all the Scrum meetings we had with few exceptions, and made sure I had some task assigned to me so I had something to work on. The work with Scrum has been far from flawless though, which might be expected from a first try. I am 100% confident that I would do much it better the second time, especially creating the tasks, making them a smaller size with a clear goal that can be performed in a sitting. I think they were the biggest problem during this project, as they encompassed too much and made everyone unsure of what they were actually supposed to do. The exercise we had in the beginning of the course where we got the task of breaking down a project in as many tasks as possible was informative, but the knowledge gained was never really applied in the project. The way of thinking that the more tasks the better, as they get clearer and simples, is definitely something I will keep with me for the future.
+
+### What is my contribution towards the team’s deliveries?
+I was part of making some of the final changes to the application before the presentation. Nothing major was made this week, but more of a refinement and making sure all parts of the changed app fit together well before the demonstration, which we succeeded in. I also participated in writing the final group reflection as a group.
+
+Note: Me and my team members had misunderstood in that there would be no individual reflection for the last week. Therefore I haven't kept a detailed timelog like previous weeks. Instead this is an estimation from memory.
+
+**My total time spent was 15 hours**
+Working with the group: 6h
+Working on the project: 5h
+Presentation time: 3h
+Reflection: 1h
